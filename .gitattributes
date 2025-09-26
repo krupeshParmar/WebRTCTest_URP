@@ -1,0 +1,7 @@
+* text=auto
+
+# Unity YAML files (scenes, prefabs, etc.)
+*.unity merge=unityyaml
+*.prefab merge=unityyaml
+*.asset merge=unityyaml
+*.mat merge=unityyaml

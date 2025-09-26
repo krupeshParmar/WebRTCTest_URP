@@ -1,0 +1,45 @@
+# --- Unity core ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+CrashReporter/
+sysinfo.txt
+
+# --- IDEs ---
+.vs/
+.vscode/
+*.user
+*.suo
+*.opendb
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Cache/Profiling ---
+*.pidb
+*.mdb
+*.pdb
+*.ilk
+
+# --- Packages cache ---
+# Packages/packages-lock.json 
+
+# --- StreamingAssets temp bundles ---
+*.apk
+*.aab
+*.ipa
+
+Build/
+Release/
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+

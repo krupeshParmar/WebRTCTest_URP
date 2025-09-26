@@ -1,0 +1,2643 @@
+[WebRTC][DLL] PeerConnection state: 5
+[WebRTC][DLL] PeerConnection state: 5
+[WebRTC][DLL] PeerConnection state: 5
+[WebRTC][DLL] PeerConnection state: 5
+Initializing socket
+Socket initialized successfully
+Sending{"type":"register","role":"unity"}
+
+ReceiveLoop started
+msg recevied on socetHTTP/1.1 400 Bad Request
+msg recevied on socetConnection: close
+msg recevied on socet
+Initializing socket
+Socket initialized successfully
+TC][DLL] PeerConnection state: 
+Sending{"type":"register","role":"unity"}
+
+ReceiveLoop started
+msg recevied on socetHTTP/1.1 400 Bad Request
+msg recevied on socetConnection: close
+msg recevied on socet
+Initializing socket
+Socket initialized successfully
+TC][DLL] PeerConnection state: 
+Sending{"type":"register","role":"unity"}
+
+ReceiveLoop started
+msg recevied on socetHTTP/1.1 400 Bad Request
+msg recevied on socetConnection: close
+msg recevied on socet
+Initializing socket
+Socket initialized successfully
+TC][DLL] PeerConnection state: 
+Sending{"type":"register","role":"unity"}
+
+ReceiveLoop started
+TC][DLL] PeerConnection state: 
+Initializing socket
+[WS] Connected to signaling server
+[WS] Disconnected from signaling server
+TC][DLL] PeerConnection state: 
+[2025-06-28 19:40:47.847] Initializing socket
+[2025-06-28 19:40:47.850] [WS] Connected to signaling server
+[2025-06-28 19:40:51.066] TC][DLL] PeerConnection state: 
+[2025-06-28 19:43:17.072] Initializing socket
+[2025-06-28 19:43:17.075] [WS] Connected to signaling server
+[2025-06-28 19:43:23.789] [WS] Disconnected from signaling server
+[2025-06-28 19:48:55.448] TC][DLL] PeerConnection state: 
+[2025-06-28 19:50:46.916] Initializing socket
+[2025-06-28 19:50:46.920] [WS] Connected to signaling server
+[2025-06-28 19:51:06.949] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 19:52:03.510] TC][DLL] PeerConnection state: 
+[2025-06-28 20:01:17.300] Initializing socket
+[2025-06-28 20:01:17.304] [WS] Connected to signaling server
+[2025-06-28 20:01:24.579] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 20:04:15.386] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 20:05:21.942] Initializing socket
+[2025-06-28 20:05:21.945] [WS] Connected to signaling server
+[2025-06-28 20:05:21.945] Offer sent to Browser
+[2025-06-28 20:05:29.189] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 20:07:39.182] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 20:07:39.184] Initializing socket
+[2025-06-28 20:07:39.187] [WS] Connected to signaling server
+[2025-06-28 20:07:39.187] Offer sent to Browser
+[2025-06-28 20:07:45.171] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 20:08:12.382] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 20:08:12.383] Initializing socket
+[2025-06-28 20:08:12.387] [WS] Connected to signaling server
+[2025-06-28 20:08:12.387] Offer sent to Browser
+[2025-06-28 20:08:24.378] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 20:10:00.290] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 20:10:00.291] Initializing socket
+[2025-06-28 20:10:00.295] [WS] Connected to signaling server
+[2025-06-28 20:10:00.295] Offer sent to Browser
+[2025-06-28 20:10:06.372] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 20:14:32.342] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 20:14:32.343] Initializing socket
+[2025-06-28 20:14:32.347] [WS] Connected to signaling server
+[2025-06-28 20:14:32.347] Offer sent to Browser
+[2025-06-28 20:14:38.762] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 20:20:36.664] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 20:22:20.131] Initializing socket
+[2025-06-28 20:22:20.133] [WS] Connected to signaling server
+[2025-06-28 20:22:20.133] Offer sent to Browser
+[2025-06-28 20:22:20.173] [WS] ICE candidate sent
+[2025-06-28 20:22:32.493] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 20:24:56.271] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 20:26:11.489] Initializing socket
+[2025-06-28 20:26:11.493] [WS] Connected to signaling server
+[2025-06-28 20:26:11.493] Offer sent to Browser
+[2025-06-28 20:26:11.512] [WS] ICE candidate sent
+[2025-06-28 20:26:20.459] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 20:28:45.693] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 20:28:45.695] Initializing socket
+[2025-06-28 20:28:45.698] [WS] Connected to signaling server
+[2025-06-28 20:28:45.698] Offer sent to Browser
+[2025-06-28 20:28:45.745] [WS] ICE candidate sent
+[2025-06-28 20:28:55.937] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 20:29:38.137] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 20:29:38.139] Initializing socket
+[2025-06-28 20:29:38.141] [WS] Connected to signaling server
+[2025-06-28 20:29:38.142] Offer sent to Browser
+[2025-06-28 20:29:38.159] [WS] ICE candidate sent
+[2025-06-28 20:29:44.156] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 20:31:50.767] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 20:31:50.769] Initializing socket
+[2025-06-28 20:31:50.772] [WS] Connected to signaling server
+[2025-06-28 20:31:50.772] Offer sent to Browser
+[2025-06-28 20:31:50.788] [WS] ICE candidate sent
+[2025-06-28 20:31:57.529] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 20:32:44.561] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 20:32:44.563] Initializing socket
+[2025-06-28 20:32:44.566] [WS] Connected to signaling server
+[2025-06-28 20:32:44.566] Offer sent to Browser
+[2025-06-28 20:32:44.596] [WS] ICE candidate sent
+[2025-06-28 20:32:50.467] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 20:34:48.177] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 20:35:43.239] Initializing socket
+[2025-06-28 20:35:43.243] [WS] Connected to signaling server
+[2025-06-28 20:35:43.243] Offer sent to Browser
+[2025-06-28 20:35:43.258] [WS] ICE candidate sent
+[2025-06-28 20:35:50.335] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 20:38:51.750] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 20:50:07.325] Initializing socket
+[2025-06-28 20:50:07.327] [WS] Connected to signaling server
+[2025-06-28 20:50:07.327] Offer sent to Browser
+[2025-06-28 20:50:07.377] [WS] ICE candidate sent
+[2025-06-28 20:50:18.833] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 20:55:55.928] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 20:55:55.929] Initializing socket
+[2025-06-28 20:55:55.932] [WS] Connected to signaling server
+[2025-06-28 20:55:55.932] Offer sent to Browser
+[2025-06-28 20:55:55.970] [WS] ICE candidate sent
+[2025-06-28 20:56:06.321] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 21:08:05.991] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 21:09:02.155] Initializing socket
+[2025-06-28 21:09:02.159] [WS] Connected to signaling server
+[2025-06-28 21:09:02.159] Offer sent to Browser
+[2025-06-28 21:09:02.246] [WS] ICE candidate sent
+[2025-06-28 21:09:23.712] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 21:15:40.475] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 21:16:24.009] Initializing socket
+[2025-06-28 21:16:24.012] [WS] Connected to signaling server
+[2025-06-28 21:16:24.012] Offer sent to Browser
+[2025-06-28 21:16:24.067] [WS] ICE candidate sent
+[2025-06-28 21:16:29.701] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 21:27:55.021] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 21:28:30.292] Initializing socket
+[2025-06-28 21:28:30.295] [WS] Connected to signaling server
+[2025-06-28 21:32:19.893] Initializing socket
+[2025-06-28 21:32:19.896] [WS] Connected to signaling server
+[2025-06-28 21:35:38.971] Initializing socket
+[2025-06-28 21:35:38.973] [WS] Connected to signaling server
+[2025-06-28 21:35:38.990] [WS] ICE candidate sent
+[2025-06-28 21:35:46.255] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-06-28 21:39:31.438] [WebRTC][DLL] PeerConnection state: 5
+[2025-06-28 21:40:18.353] onLocalDescription triggered: v=0
+o=rtc 1737061758 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 79:F1:92:FE:C1:F7:81:E3:D3:C5:79:BD:D0:DF:B5:0C:C2:85:09:F1:90:B1:64:85:A7:D7:6E:A8:09:E5:EE:41
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:IrVy
+a=ice-pwd:Wed1nyc9INEBVf61FMiPF3
+[2025-09-13 18:51:23.678] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 18:24:59.957] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 18:24:59.957] onLocalDescription triggered: v=0
+o=rtc 2426925031 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 94:5C:58:4B:C0:E5:D2:FC:62:F1:A7:EA:C1:D5:9B:67:3D:9E:E5:9E:CD:CF:DB:7C:7E:D3:C9:D9:56:91:08:5A
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:1TfI
+a=ice-pwd:ri5RtEh6gGnXwYq4UIsaj8
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:1TfI
+a=ice-pwd:ri5RtEh6gGnXwYq4UIsaj8
+
+[2025-09-14 18:24:59.958] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 18:24:59.958] Initializing socket
+[2025-09-14 18:24:59.967] [WS] Connected to signaling server
+[2025-09-14 18:24:59.967] SDP Offer sent to browser!
+[2025-09-14 18:25:00.003] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 58511 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 18:25:00.395] [NVENC] Writing to EncodedOut/stream_20250914_182500.h264
+[2025-09-14 18:25:00.395] [NVENC] Open OK
+[2025-09-14 18:25:00.395] NVENC open OK
+[2025-09-14 18:25:04.836] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 18:44:26.236] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 18:44:26.236] onLocalDescription triggered: v=0
+o=rtc 2013697848 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 06:8B:85:3B:D8:88:55:7C:22:AA:57:22:68:E1:27:3F:F0:7D:2B:99:32:F9:CE:73:F7:15:68:33:FB:02:03:3D
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:JfXT
+a=ice-pwd:sJM2jo6UeqnwSBE3DzIZhi
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:JfXT
+a=ice-pwd:sJM2jo6UeqnwSBE3DzIZhi
+
+[2025-09-14 18:44:26.237] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 18:44:26.237] Initializing socket
+[2025-09-14 18:44:26.243] [WS] Connected to signaling server
+[2025-09-14 18:44:26.243] SDP Offer sent to browser!
+[2025-09-14 18:44:26.286] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 54343 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 18:44:26.575] [NVENC] Writing to EncodedOut/stream_20250914_184426.h264
+[2025-09-14 18:44:26.575] [NVENC] Open OK
+[2025-09-14 18:44:26.575] NVENC open OK
+[2025-09-14 18:44:28.575] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 18:47:16.617] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 18:47:16.617] onLocalDescription triggered: v=0
+o=rtc 2391536199 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 40:89:C4:C1:BF:FF:04:98:16:69:10:22:D5:86:84:AA:D2:51:5F:2B:73:42:CB:99:EA:F6:9F:E9:76:DB:47:4B
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:P0fB
+a=ice-pwd:vOIAQbwdxE8WucJ180xG/l
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:P0fB
+a=ice-pwd:vOIAQbwdxE8WucJ180xG/l
+
+[2025-09-14 18:47:16.618] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 18:47:16.618] Initializing socket
+[2025-09-14 18:47:16.624] [WS] Connected to signaling server
+[2025-09-14 18:47:16.624] SDP Offer sent to browser!
+[2025-09-14 18:47:16.639] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 57121 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 18:47:16.655] [NVENC] Writing to EncodedOut/stream_20250914_184716.h264
+[2025-09-14 18:47:16.655] [NVENC] Open OK
+[2025-09-14 18:47:16.655] NVENC open OK
+[2025-09-14 18:47:28.554] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 18:52:28.174] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 18:52:28.174] onLocalDescription triggered: v=0
+o=rtc 874179887 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 BE:21:E9:23:E2:DB:4B:71:2E:0F:31:9E:19:91:C2:33:DF:16:2C:64:F9:F8:53:06:AD:9E:60:D0:12:50:3C:CF
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:68hU
+a=ice-pwd:+KKCzfRK7sT5KmzKQ2l/QH
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:68hU
+a=ice-pwd:+KKCzfRK7sT5KmzKQ2l/QH
+
+[2025-09-14 18:52:28.174] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 18:52:28.174] Initializing socket
+[2025-09-14 18:52:28.178] [WS] Connected to signaling server
+[2025-09-14 18:52:28.178] SDP Offer sent to browser!
+[2025-09-14 18:52:28.214] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 61283 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 18:52:28.239] [NVENC] Writing to EncodedOut/stream_20250914_185228.h264
+[2025-09-14 18:52:28.239] [NVENC] Open OK
+[2025-09-14 18:52:28.239] NVENC open OK
+[2025-09-14 18:52:32.254] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 19:03:14.658] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 19:03:14.658] onLocalDescription triggered: v=0
+o=rtc 3183314240 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 0F:7E:3F:4E:00:50:EE:E9:81:9A:7A:0A:4E:F4:52:A0:80:76:CE:16:78:D5:B2:93:51:A2:5D:0F:D3:51:AD:2D
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:N1P1
+a=ice-pwd:BGecEysmzqj846Gue2Ik5E
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:N1P1
+a=ice-pwd:BGecEysmzqj846Gue2Ik5E
+
+[2025-09-14 19:03:14.659] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 19:03:14.659] Initializing socket
+[2025-09-14 19:03:14.662] [WS] Connected to signaling server
+[2025-09-14 19:03:14.662] SDP Offer sent to browser!
+[2025-09-14 19:03:14.692] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 55818 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 19:03:14.703] [NVENC] Writing to EncodedOut/stream_20250914_190314.h264
+[2025-09-14 19:03:14.703] [NVENC] Open OK
+[2025-09-14 19:03:14.703] NVENC open OK
+[2025-09-14 19:03:17.933] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 19:28:20.567] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 19:28:20.567] onLocalDescription triggered: v=0
+o=rtc 1671944595 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 CD:8C:36:D1:CD:D1:E7:12:11:6A:AF:2E:7F:CE:D4:E0:53:FD:33:38:DF:57:BA:27:C9:85:6C:70:65:33:C4:8C
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:LS4z
+a=ice-pwd:cyI+1iGpqh7TLiTMxIlEO+
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:LS4z
+a=ice-pwd:cyI+1iGpqh7TLiTMxIlEO+
+
+[2025-09-14 19:28:20.568] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 19:28:20.568] Initializing socket
+[2025-09-14 19:28:20.574] [WS] Connected to signaling server
+[2025-09-14 19:28:20.574] SDP Offer sent to browser!
+[2025-09-14 19:28:20.607] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 54959 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 19:28:20.634] [NVENC] Writing to EncodedOut/stream_20250914_192820.h264
+[2025-09-14 19:28:20.634] [NVENC] Open OK
+[2025-09-14 19:28:20.634] NVENC open OK
+[2025-09-14 19:28:21.358] [NVENC] f.nvEncRegisterResource(enc, &rr) failed: 0x0000000c
+[2025-09-14 19:28:21.358] [NVENC] f.nvEncMapInputResource(enc, &map) failed: 0x00000014
+[2025-09-14 19:28:21.358] [NVENC] encodeTexture failed (render event)
+[2025-09-14 19:28:21.397] [NVENC] f.nvEncRegisterResource(enc, &rr) failed: 0x0000000c
+[2025-09-14 19:28:21.397] [NVENC] f.nvEncMapInputResource(enc, &map) failed: 0x00000014
+[2025-09-14 19:36:23.094] [NVENC] f.nvEncRegisterResource(enc, &rr) failed: 0x0000000c
+[2025-09-14 19:36:23.094] [NVENC] f.nvEncMapInputResource(enc, &map) failed: 0x00000014
+[2025-09-14 19:36:23.094] [NVENC] encodeTexture failed (render event)
+[2025-09-14 19:36:23.219] [NVENC] f.nvEncRegisterResource(enc, &rr) failed: 0x0000000c
+[2025-09-14 19:36:23.219] [NVENC] f.nvEncMapInputResource(enc, &map) failed: 0x00000014
+[2025-09-14 19:36:23.219] [NVENC] encodeTexture failed (render event)
+[2025-09-14 19:36:23.332] [NVENC] f.nvEncRegisterResource(enc, &rr) failed: 0x0000000c
+[2025-09-14 19:36:23.332] [NVENC] f.nvEncMapInputResource(enc, &map) failed: 0x00000014
+[2025-09-14 19:36:23.332] [NVENC] encodeTexture failed (render event)
+[2025-09-14 19:36:23.560] [NVENC] f.nvEncRegisterResource(enc, &rr) failed: 0x0000000c
+[2025-09-14 19:36:23.560] [NVENC] f.nvEncMapInputResource(enc, &map) failed: 0x00000014
+[2025-09-14 19:36:23.560] [NVENC] encodeTexture failed (render event)
+[2025-09-14 19:36:24.252] [NVENC] f.nvEncRegisterResource(enc, &rr) failed: 0x0000000c
+[2025-09-14 19:36:24.252] [NVENC] f.nvEncMapInputResource(enc, &map) failed: 0x00000014
+[2025-09-14 19:36:24.252] [NVENC] encodeTexture failed (render event)
+[2025-09-14 19:36:24.297] [NVENC] f.nvEncRegisterResource(enc, &rr) failed: 0x0000000c
+[2025-09-14 19:36:24.298] [NVENC] f.nvEncMapInputResource(enc, &map) failed: 0x00000014
+[2025-09-14 19:36:24.298] [NVENC] encodeTexture failed (render event)
+[2025-09-14 19:36:24.536] [NVENC] f.nvEncRegisterResource(enc, &rr) failed: 0x0000000c
+[2025-09-14 19:36:24.536] [NVENC] f.nvEncMapInputResource(enc, &map) failed: 0x00000014
+[2025-09-14 19:36:24.536] [NVENC] encodeTexture failed (render event)
+[2025-09-14 19:37:39.487] [NVENC] f.nvEncRegisterResource(enc, &rr) failed: 0x0000000c
+[2025-09-14 19:37:39.487] [NVENC] f.nvEncMapInputResource(enc, &map) failed: 0x00000014
+[2025-09-14 19:37:39.487] [NVENC] encodeTexture failed (render event)
+[2025-09-14 19:37:41.893] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 21:34:09.166] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 21:34:09.166] onLocalDescription triggered: v=0
+o=rtc 2323699983 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 00:8F:36:E7:5A:4A:7A:C9:77:2E:43:3A:BA:DB:94:DA:7A:8C:5B:36:3D:91:9F:C9:5B:99:0D:68:87:33:6D:63
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:oTTI
+a=ice-pwd:iK3nRpCK4f2t2vGTFQqXXC
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:oTTI
+a=ice-pwd:iK3nRpCK4f2t2vGTFQqXXC
+
+[2025-09-14 21:34:09.168] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 21:34:09.168] Initializing socket
+[2025-09-14 21:34:09.175] [WS] Connected to signaling server
+[2025-09-14 21:34:09.175] SDP Offer sent to browser!
+[2025-09-14 21:34:09.182] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250914_213409.h264
+[2025-09-14 21:34:09.182] [NVENC] Open OK
+[2025-09-14 21:34:09.209] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 56192 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 21:34:09.888] [NVENC] [2025-09-14 21:34:15.150] [NVENC] Closed
+[2025-09-14 21:34:15.154] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-14 21:42:26.456] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 21:43:17.021] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 21:43:17.021] onLocalDescription triggered: v=0
+o=rtc 3420633643 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 7C:27:A5:B7:0A:1E:A5:44:6D:F1:0D:B4:E4:0B:F6:03:05:63:03:8E:91:68:92:55:F3:71:C6:58:03:DB:4C:34
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:0sG7
+a=ice-pwd:3fS+eq/QBCiyZyiJNV1vbj
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:0sG7
+a=ice-pwd:3fS+eq/QBCiyZyiJNV1vbj
+
+[2025-09-14 21:43:17.022] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 21:43:17.022] Initializing socket
+[2025-09-14 21:43:17.025] [WS] Connected to signaling server
+[2025-09-14 21:43:17.025] SDP Offer sent to browser!
+[2025-09-14 21:43:17.063] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 59130 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 21:43:17.069] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250914_214317.h264
+[2025-09-14 21:43:17.069] [NVENC] Open OK
+[2025-09-14 21:43:28.524] [NVENC] Closed
+[2025-09-14 21:43:28.527] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-14 22:01:57.986] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 22:01:57.987] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 22:01:57.987] onLocalDescription triggered: v=0
+o=rtc 902308792 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 A0:A6:F4:40:25:90:02:A2:A8:4B:F9:7A:26:9B:86:24:4B:4F:7F:98:B4:2C:83:BD:53:BB:B9:8C:81:9B:8D:94
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:kJ0H
+a=ice-pwd:MRCaHGvoNDcaS2PNhXwE2k
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:kJ0H
+a=ice-pwd:MRCaHGvoNDcaS2PNhXwE2k
+
+[2025-09-14 22:01:57.988] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 22:01:57.988] Initializing socket
+[2025-09-14 22:01:58.002] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250914_220158.h264
+[2025-09-14 22:01:58.003] [NVENC] Open OK
+[2025-09-14 22:01:58.014] [WS] Connected to signaling server
+[2025-09-14 22:01:58.014] SDP Offer sent to browser!
+[2025-09-14 22:01:58.036] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 57355 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 22:02:05.730] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-14 22:02:05.733] [NVENC] Closed
+[2025-09-14 22:04:11.971] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 22:04:11.972] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 22:04:11.972] onLocalDescription triggered: v=0
+o=rtc 3281965750 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 D1:62:47:21:55:79:78:96:DD:E6:2B:F8:FF:53:30:69:96:FA:6B:FF:5E:3A:19:1D:1A:C9:9B:A1:BC:C1:72:09
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:L9WY
+a=ice-pwd:9soBZ5Ej43VoWsd7HFeeoY
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:L9WY
+a=ice-pwd:9soBZ5Ej43VoWsd7HFeeoY
+
+[2025-09-14 22:04:11.973] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 22:04:11.973] Initializing socket
+[2025-09-14 22:04:11.977] [WS] Connected to signaling server
+[2025-09-14 22:04:11.977] SDP Offer sent to browser!
+[2025-09-14 22:04:11.989] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250914_220411.h264
+[2025-09-14 22:04:11.989] [NVENC] Open OK
+[2025-09-14 22:04:12.020] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 58227 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 22:04:19.129] [NVENC] Closed
+[2025-09-14 22:04:19.145] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-14 22:05:19.892] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 22:05:19.893] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 22:05:19.893] onLocalDescription triggered: v=0
+o=rtc 113043329 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 47:85:FA:FD:D1:56:13:D6:F0:C3:01:E9:E9:20:27:6C:E5:A4:A9:71:86:BA:62:7F:A1:86:39:8F:09:0B:50:14
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:0pDI
+a=ice-pwd:IgMsKOs2LS37MSS3H7EIe6
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:0pDI
+a=ice-pwd:IgMsKOs2LS37MSS3H7EIe6
+
+[2025-09-14 22:05:19.894] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 22:05:19.894] Initializing socket
+[2025-09-14 22:05:19.899] [WS] Connected to signaling server
+[2025-09-14 22:05:19.900] SDP Offer sent to browser!
+[2025-09-14 22:05:19.923] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250914_220519.h264
+[2025-09-14 22:05:19.923] [NVENC] Open OK
+[2025-09-14 22:05:19.923] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 64672 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 22:05:30.042] [NVENC] Closed
+[2025-09-14 22:05:30.049] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-14 22:05:59.321] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 22:05:59.322] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 22:05:59.322] onLocalDescription triggered: v=0
+o=rtc 1770745931 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 49:CB:4B:67:8E:21:3B:77:FA:31:E1:A7:80:0C:1F:DB:9D:7F:19:AF:E4:C2:E6:60:E4:C5:B6:F5:EF:BE:87:9C
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:nFQN
+a=ice-pwd:lCW9nsH1TuVSchq53PcnOe
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:nFQN
+a=ice-pwd:lCW9nsH1TuVSchq53PcnOe
+
+[2025-09-14 22:05:59.323] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 22:05:59.323] Initializing socket
+[2025-09-14 22:05:59.326] [WS] Connected to signaling server
+[2025-09-14 22:05:59.326] SDP Offer sent to browser!
+[2025-09-14 22:05:59.343] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250914_220559.h264
+[2025-09-14 22:05:59.343] [NVENC] Open OK
+[2025-09-14 22:05:59.377] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 63584 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 22:06:06.656] [NVENC] Closed
+[2025-09-14 22:06:06.660] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-14 22:14:58.566] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 22:14:58.567] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 22:14:58.567] onLocalDescription triggered: v=0
+o=rtc 4182638535 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 D1:DE:D2:B4:5B:B9:6B:18:D9:D9:DE:AE:76:7F:2D:DA:C7:05:A9:A3:08:98:DD:FD:AF:7C:59:AD:3E:21:42:60
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:MnWx
+a=ice-pwd:q66rstQHMHVkHDhnB6fHFd
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:MnWx
+a=ice-pwd:q66rstQHMHVkHDhnB6fHFd
+
+[2025-09-14 22:14:58.568] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 22:14:58.568] Initializing socket
+[2025-09-14 22:14:58.571] [WS] Connected to signaling server
+[2025-09-14 22:14:58.571] SDP Offer sent to browser!
+[2025-09-14 22:14:58.581] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250914_221458.h264
+[2025-09-14 22:14:58.582] [NVENC] Open OK
+[2025-09-14 22:14:58.608] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 62153 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 22:15:05.309] [NVENC] Closed
+[2025-09-14 22:15:05.313] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-14 22:19:20.464] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 22:19:20.465] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 22:19:20.465] onLocalDescription triggered: v=0
+o=rtc 2750271270 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 51:14:87:9F:66:76:31:81:E6:5F:DC:33:F6:62:80:9D:E4:72:88:A1:24:25:18:01:9E:46:83:2F:B2:A4:FE:BD
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:IFke
+a=ice-pwd:YFyR8HLM+p27CuiwxgWtl0
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:IFke
+a=ice-pwd:YFyR8HLM+p27CuiwxgWtl0
+
+[2025-09-14 22:19:20.466] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 22:19:20.466] Initializing socket
+[2025-09-14 22:19:20.471] [WS] Connected to signaling server
+[2025-09-14 22:19:20.471] SDP Offer sent to browser!
+[2025-09-14 22:19:20.484] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250914_221920.h264
+[2025-09-14 22:19:20.484] [NVENC] Open OK
+[2025-09-14 22:19:20.509] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 62254 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 22:19:31.693] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-14 22:19:31.696] [NVENC] Closed
+[2025-09-14 22:23:40.083] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 22:23:40.084] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 22:23:40.084] onLocalDescription triggered: v=0
+o=rtc 2022343732 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 1F:8E:D0:06:74:A4:7B:38:56:65:4C:C9:FC:18:11:CB:E6:F9:83:FB:C3:01:4B:98:01:A4:AF:5B:40:C2:A7:ED
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:lRSe
+a=ice-pwd:+NjPsQEWSgwtkP/DiB+9aq
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:lRSe
+a=ice-pwd:+NjPsQEWSgwtkP/DiB+9aq
+
+[2025-09-14 22:23:40.085] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 22:23:40.085] Initializing socket
+[2025-09-14 22:23:40.090] [WS] Connected to signaling server
+[2025-09-14 22:23:40.090] SDP Offer sent to browser!
+[2025-09-14 22:23:40.099] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250914_222340.h264
+[2025-09-14 22:23:40.099] [NVENC] Open OK
+[2025-09-14 22:23:40.132] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 64479 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 22:23:48.639] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-14 22:23:48.642] [NVENC] Closed
+[2025-09-14 22:30:06.052] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 22:31:25.651] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 22:31:25.651] onLocalDescription triggered: v=0
+o=rtc 2457969017 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 28:A6:91:0E:94:71:74:BA:3E:08:5A:74:C4:84:E4:F4:CD:C2:0D:1B:83:4E:08:16:7C:10:EC:6F:C7:B8:61:A7
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:Pd1G
+a=ice-pwd:ksRejySkkDtFe6fHjd5klW
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:Pd1G
+a=ice-pwd:ksRejySkkDtFe6fHjd5klW
+
+[2025-09-14 22:31:25.652] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 22:31:25.652] Initializing socket
+[2025-09-14 22:31:25.656] [WS] Connected to signaling server
+[2025-09-14 22:31:25.656] SDP Offer sent to browser!
+[2025-09-14 22:31:25.698] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250914_223125.h264
+[2025-09-14 22:31:25.698] [NVENC] Open OK
+[2025-09-14 22:31:25.711] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 63944 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 22:31:30.360] [NVENC] Closed
+[2025-09-14 22:31:30.364] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-14 22:31:49.168] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 22:31:49.169] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 22:31:49.169] onLocalDescription triggered: v=0
+o=rtc 2978951093 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 F2:C0:97:C8:CC:BB:E0:96:2B:D3:09:AA:CC:A7:F9:A3:C9:B3:C1:72:04:6C:33:3D:E8:54:33:B9:C5:81:C1:B0
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:JQ+3
+a=ice-pwd:gPL3oflJPKZhZzVSET2NN5
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:JQ+3
+a=ice-pwd:gPL3oflJPKZhZzVSET2NN5
+
+[2025-09-14 22:31:49.170] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 22:31:49.170] Initializing socket
+[2025-09-14 22:31:49.173] [WS] Connected to signaling server
+[2025-09-14 22:31:49.173] SDP Offer sent to browser!
+[2025-09-14 22:31:49.182] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250914_223149.h264
+[2025-09-14 22:31:49.182] [NVENC] Open OK
+[2025-09-14 22:31:49.215] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 50977 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 22:31:59.144] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-14 22:31:59.148] [NVENC] Closed
+[2025-09-14 22:36:22.516] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 22:39:56.301] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 22:39:56.302] onLocalDescription triggered: v=0
+o=rtc 2352525676 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 06:51:54:6F:36:FA:C5:0E:89:1B:70:A0:96:6B:9C:79:9B:F2:EC:3E:88:2D:BC:4E:F7:F2:A7:A8:A9:FB:85:5D
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:o6Bd
+a=ice-pwd:G32BYwCpX7m5A+ncaj96ab
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:o6Bd
+a=ice-pwd:G32BYwCpX7m5A+ncaj96ab
+
+[2025-09-14 22:39:56.302] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 22:39:56.302] Initializing socket
+[2025-09-14 22:39:56.305] [WS] Connected to signaling server
+[2025-09-14 22:39:56.305] SDP Offer sent to browser!
+[2025-09-14 22:39:56.343] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250914_223956.h264
+[2025-09-14 22:39:56.343] [NVENC] Open OK
+[2025-09-14 22:39:56.352] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 59797 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 22:40:09.960] [NVENC] Closed
+[2025-09-14 22:40:09.963] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-14 22:40:34.439] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-14 22:40:34.440] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-14 22:40:34.440] onLocalDescription triggered: v=0
+o=rtc 1663508468 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 A0:A9:CF:A9:57:40:7F:F9:34:7D:22:81:FF:D5:5E:40:91:30:4E:1A:43:E5:69:6F:EB:23:92:92:5A:6E:6C:DC
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:8X04
+a=ice-pwd:co2vJRMK0bnkw4AUCsrcs7
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:8X04
+a=ice-pwd:co2vJRMK0bnkw4AUCsrcs7
+
+[2025-09-14 22:40:34.441] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-14 22:40:34.441] Initializing socket
+[2025-09-14 22:40:34.443] [WS] Connected to signaling server
+[2025-09-14 22:40:34.443] SDP Offer sent to browser!
+[2025-09-14 22:40:34.453] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250914_224034.h264
+[2025-09-14 22:40:34.453] [NVENC] Open OK
+[2025-09-14 22:40:34.480] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 64950 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-14 22:40:44.472] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-14 22:40:44.474] [NVENC] Closed
+[2025-09-14 22:42:38.693] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 21:00:02.132] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 21:00:02.132] onLocalDescription triggered: v=0
+o=rtc 2692777506 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 75:30:23:B6:1A:47:3D:A6:53:12:BD:25:E4:31:BE:C3:48:38:3F:91:24:14:BF:B0:CA:11:4B:BD:7C:23:4A:9C
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:1NpH
+a=ice-pwd:9KgWDomoM67g/gatDPmOHM
+
+[2025-09-15 21:00:02.133] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 21:00:02.133] Initializing socket
+[2025-09-15 21:00:02.137] [WS] Connected to signaling server
+[2025-09-15 21:00:02.137] SDP Offer sent to browser!
+[2025-09-15 21:00:02.172] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 50696 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 21:00:02.190] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_210002.h264
+[2025-09-15 21:00:02.190] [NVENC] Open OK
+[2025-09-15 21:00:03.596] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 5790354028729133929 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:nJTc\r\na=ice-pwd:w8RF60T7bFJWzQYTOv0YWG3F\r\na=ice-options:trickle\r\na=fingerprint:sha-256 20:61:47:3D:3B:DD:8A:D5:BF:73:87:02:CD:E1:C8:19:9C:92:40:50:72:7F:FF:66:EA:5A:34:B5:76:88:83:9B\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 21:00:03.596] SDP string: v=0
+o=- 5790354028729133929 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic: WMS
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=ice-ufrag:nJTc
+a=ice-pwd:w8RF60T7bFJWzQYTOv0YWG3F
+a=ice-options:trickle
+a=fingerprint:sha-256 20:61:47:3D:3B:DD:8A:D5:BF:73:87:02:CD:E1:C8:19:9C:92:40:50:72:7F:FF:66:EA:5A:34:B5:76:88:83:9B
+a=setup:active
+a=mid:0
+a=sctp-port:5000
+a=max-message-size:262144
+
+[2025-09-15 21:00:03.597] setRemoteDescription success
+[2025-09-15 21:00:03.597] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 21:00:03.597] onLocalDescription triggered: v=0
+o=rtc 4162929084 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 75:30:23:B6:1A:47:3D:A6:53:12:BD:25:E4:31:BE:C3:48:38:3F:91:24:14:BF:B0:CA:11:4B:BD:7C:23:4A:9C
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:1NpH
+a=ice-pwd:9KgWDomoM67g/gatDPmOHM
+a=candidate:1 1 UDP 2122317823 10.0.0.3 50696 typ host
+a=candidate:2 1 UDP 2122317567 10.5.0.2 50696 typ host
+a=candidate:3 1 UDP 1686109695 99.243.255.30 50696 typ srflx raddr 0.0.0.0 rport 0
+a=end-of-candidates
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:1NpH
+a=ice-pwd:9KgWDomoM67g/gatDPmOHM
+
+[2025-09-15 21:00:03.600] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:170005503 1 udp 2113937151 5e4ab853-1ecf-4a5a-ab93-6bcb4f720807.local 65410 typ host generation 0 ufrag nJTc network-cost 999","sdpMid":"0"}}
+[2025-09-15 21:00:03.600] Adding ICE candidate: candidate:170005503 1 udp 2113937151 5e4ab853-1ecf-4a5a-ab93-6bcb4f720807.local 65410 typ host generation 0 ufrag nJTc network-cost 999 mid: 0
+[2025-09-15 21:00:03.600] addRemoteCandidate success
+[2025-09-15 21:00:03.600] [WS] Received and added ICE candidate
+[2025-09-15 21:00:04.780] [WebRTC][DLL] PeerConnection state: 2
+[2025-09-15 21:00:04.782] [WebRTC][DLL] DataChannel opened
+[2025-09-15 21:00:10.130] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 21:03:30.938] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 21:03:30.938] onLocalDescription triggered: v=0
+o=rtc 4032700384 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 92:4D:5C:01:06:FF:8A:B7:4C:0F:5B:27:AE:95:7E:35:A6:31:BC:E9:3E:D9:83:2B:C3:E8:D1:8F:DB:1D:EA:C5
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:9T3o
+a=ice-pwd:PlXscgIHs9zT/3iXOI0m6g
+
+[2025-09-15 21:03:30.939] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 21:03:30.939] Initializing socket
+[2025-09-15 21:03:30.942] [WS] Connected to signaling server
+[2025-09-15 21:03:30.942] SDP Offer sent to browser!
+[2025-09-15 21:03:30.947] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 7277902640406582750 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:LVSy\r\na=ice-pwd:hEYEPiz/QWYzpsOfiOl0b3+a\r\na=ice-options:trickle\r\na=fingerprint:sha-256 07:26:CC:9A:49:E0:3A:45:C4:B8:BC:DE:E4:64:8B:9F:B0:A1:49:FD:97:68:14:EA:B3:2D:16:FA:AA:69:81:F7\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 21:03:30.947] SDP string: v=0
+o=- 7277902640406582750 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic: WMS
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=ice-ufrag:LVSy
+a=ice-pwd:hEYEPiz/QWYzpsOfiOl0b3+a
+a=ice-options:trickle
+a=fingerprint:sha-256 07:26:CC:9A:49:E0:3A:45:C4:B8:BC:DE:E4:64:8B:9F:B0:A1:49:FD:97:68:14:EA:B3:2D:16:FA:AA:69:81:F7
+a=setup:active
+a=mid:0
+a=sctp-port:5000
+a=max-message-size:262144
+
+[2025-09-15 21:03:30.947] setRemoteDescription success
+[2025-09-15 21:03:30.947] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 21:03:30.947] onLocalDescription triggered: v=0
+o=rtc 3395851268 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 92:4D:5C:01:06:FF:8A:B7:4C:0F:5B:27:AE:95:7E:35:A6:31:BC:E9:3E:D9:83:2B:C3:E8:D1:8F:DB:1D:EA:C5
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:9T3o
+a=ice-pwd:PlXscgIHs9zT/3iXOI0m6g
+a=candidate:1 1 UDP 2122317823 10.0.0.3 64042 typ host
+a=candidate:2 1 UDP 2122317567 10.5.0.2 64042 typ host
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:9T3o
+a=ice-pwd:PlXscgIHs9zT/3iXOI0m6g
+
+[2025-09-15 21:03:30.955] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:125135030 1 udp 2113937151 2a194131-8382-47ce-ae29-34557375b0cc.local 63330 typ host generation 0 ufrag LVSy network-cost 999","sdpMid":"0"}}
+[2025-09-15 21:03:30.955] Adding ICE candidate: candidate:125135030 1 udp 2113937151 2a194131-8382-47ce-ae29-34557375b0cc.local 63330 typ host generation 0 ufrag LVSy network-cost 999 mid: 0
+[2025-09-15 21:03:30.955] addRemoteCandidate success
+[2025-09-15 21:03:30.955] [WS] Received and added ICE candidate
+[2025-09-15 21:03:30.986] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_210330.h264
+[2025-09-15 21:03:30.986] [NVENC] Open OK
+[2025-09-15 21:03:30.992] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 64042 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 21:03:32.262] [WebRTC][DLL] PeerConnection state: 2
+[2025-09-15 21:03:32.262] [WebRTC][DLL] DataChannel opened
+[2025-09-15 21:03:38.398] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 21:24:31.370] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 21:24:31.382] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 21:24:31.382] onLocalDescription triggered: v=0
+o=rtc 2126108942 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 97:42:57:2B:04:14:0C:BF:15:EB:4A:0E:62:3D:3D:12:28:76:35:05:DC:B9:59:51:6B:14:12:57:D0:63:86:F6
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:Mbg9
+a=ice-pwd:lqAdCtneWM9JXH01rG6fjj
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:Mbg9
+a=ice-pwd:lqAdCtneWM9JXH01rG6fjj
+
+[2025-09-15 21:24:31.383] Initializing socket
+[2025-09-15 21:24:31.385] [WS] Connected to signaling server
+[2025-09-15 21:24:31.385] SDP Offer sent to browser!
+[2025-09-15 21:24:31.434] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 52623 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 21:24:31.443] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_212431.h264
+[2025-09-15 21:24:31.443] [NVENC] Open OK
+[2025-09-15 21:24:32.893] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 6565876705271184522 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=video 0 UDP/TLS/RTP/SAVPF 96\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:coAt\r\na=ice-pwd:otkNfCk+ioupRqtgQuSU6h7S\r\na=ice-options:trickle\r\na=fingerprint:sha-256 CA:99:D9:72:8B:4F:D4:05:A3:63:5B:51:75:A9:D5:6E:E1:C6:F8:A5:80:48:3A:A7:94:32:07:44:54:BA:A4:37\r\na=setup:active\r\na=mid:video\r\na=inactive\r\na=rtcp-mux\r\na=rtpmap:96 H264/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=fmtp:96 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:7bEw\r\na=ice-pwd:QIjfgZvOz+vRLnsp8wNfc5nN\r\na=ice-options:trickle\r\na=fingerprint:sha-256 CA:99:D9:72:8B:4F:D4:05:A3:63:5B:51:75:A9:D5:6E:E1:C6:F8:A5:80:48:3A:A7:94:32:07:44:54:BA:A4:37\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 21:24:32.893] [WS] SDP string: v=0
+o=- 6565876705271184522 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic: WMS
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:coAt
+a=ice-pwd:otkNfCk+ioupRqtgQuSU6h7S
+a=ice-options:trickle
+a=fingerprint:sha-256 CA:99:D9:72:8B:4F:D4:05:A3:63:5B:51:75:A9:D5:6E:E1:C6:F8:A5:80:48:3A:A7:94:32:07:44:54:BA:A4:37
+a=setup:active
+a=mid:video
+a=inactive
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 goog-remb
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=fmtp:96 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=ice-ufrag:7bEw
+a=ice-pwd:QIjfgZvOz+vRLnsp8wNfc5nN
+a=ice-options:trickle
+a=fingerprint:sha-256 CA:99:D9:72:8B:4F:D4:05:A3:63:5B:51:75:A9:D5:6E:E1:C6:F8:A5:80:48:3A:A7:94:32:07:44:54:BA:A4:37
+a=setup:active
+a=mid:0
+a=sctp-port:5000
+a=max-message-size:262144
+
+[2025-09-15 21:24:32.893] setRemoteDescription success
+[2025-09-15 21:24:32.896] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:3025747275 1 udp 2113937151 520c5a2a-91e1-4290-948e-a56ddc8c93fd.local 59542 typ host generation 0 ufrag 7bEw network-cost 999","sdpMid":"0"}}
+[2025-09-15 21:24:32.896] Adding ICE candidate: candidate:3025747275 1 udp 2113937151 520c5a2a-91e1-4290-948e-a56ddc8c93fd.local 59542 typ host generation 0 ufrag 7bEw network-cost 999 mid: video
+[2025-09-15 21:24:32.896] addRemoteCandidate success
+[2025-09-15 21:24:32.896] [WS] Received and added ICE candidate
+[2025-09-15 21:24:58.900] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 21:24:58.904] [NVENC] Closed
+[2025-09-15 21:25:12.386] [WebRTC][DLL] PeerConnection state: 4
+[2025-09-15 21:25:12.386] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 21:27:34.024] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 21:27:34.024] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 21:27:34.024] onLocalDescription triggered: v=0
+o=rtc 2097205074 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 71:D0:A8:C8:8B:AD:1E:0E:BF:21:AB:FA:41:72:DA:86:A9:21:58:3D:50:C1:7E:E4:5F:40:61:7E:DD:27:07:1C
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:Hmyz
+a=ice-pwd:6mRi4rjBhblruC/0tKsWPR
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:Hmyz
+a=ice-pwd:6mRi4rjBhblruC/0tKsWPR
+
+[2025-09-15 21:27:34.025] Initializing socket
+[2025-09-15 21:27:34.028] [WS] Connected to signaling server
+[2025-09-15 21:27:34.028] SDP Offer sent to browser!
+[2025-09-15 21:27:34.035] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_212734.h264
+[2025-09-15 21:27:34.035] [NVENC] Open OK
+[2025-09-15 21:27:34.036] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 3314436580372989402 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=video 0 UDP/TLS/RTP/SAVPF 96\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:GKwQ\r\na=ice-pwd:ABuosasRxJlNhPfFW/uz3nhe\r\na=ice-options:trickle\r\na=fingerprint:sha-256 EB:DE:F2:6E:07:7A:A5:34:F0:B9:C4:6D:79:E6:D4:5F:52:4D:68:D4:10:E4:45:85:E2:C4:17:25:C5:F9:79:CD\r\na=setup:active\r\na=mid:video\r\na=inactive\r\na=rtcp-mux\r\na=rtpmap:96 H264/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=fmtp:96 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:/iZj\r\na=ice-pwd:9zIv+qb8ADjUxkfiQZlwDwJj\r\na=ice-options:trickle\r\na=fingerprint:sha-256 EB:DE:F2:6E:07:7A:A5:34:F0:B9:C4:6D:79:E6:D4:5F:52:4D:68:D4:10:E4:45:85:E2:C4:17:25:C5:F9:79:CD\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 21:27:34.036] [WS] Remote already set, ignoring extra answer
+[2025-09-15 21:27:34.038] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:3799316850 1 udp 2113937151 73d8baec-6765-4696-90f5-a55465f7fa99.local 63325 typ host generation 0 ufrag /iZj network-cost 999","sdpMid":"0"}}
+[2025-09-15 21:27:34.038] Adding ICE candidate: candidate:3799316850 1 udp 2113937151 73d8baec-6765-4696-90f5-a55465f7fa99.local 63325 typ host generation 0 ufrag /iZj network-cost 999 mid: video
+[2025-09-15 21:27:34.039] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 21:27:34.039] [WS] Received and added ICE candidate
+[2025-09-15 21:27:34.047] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 56400 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 21:27:47.961] [NVENC] Closed
+[2025-09-15 21:27:47.965] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 21:28:51.825] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 21:28:51.825] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 21:28:51.825] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 21:28:51.825] onLocalDescription triggered: v=0
+o=rtc 4013905632 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 8C:93:18:D2:9D:8F:36:DF:0C:D7:CB:F4:EC:EC:74:AC:7A:44:BD:16:AC:00:C1:95:F5:81:86:77:69:B0:E3:58
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:3Q3R
+a=ice-pwd:73Zb00EbU4sPDjc8b40LA3
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:3Q3R
+a=ice-pwd:73Zb00EbU4sPDjc8b40LA3
+
+[2025-09-15 21:28:51.826] Initializing socket
+[2025-09-15 21:28:51.838] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_212851.h264
+[2025-09-15 21:28:51.838] [NVENC] Open OK
+[2025-09-15 21:28:51.857] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 63728 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 21:28:55.890] [WS] Error: Unable to connect to localhost on port 9090, error: Connect error: No error
+[2025-09-15 21:28:59.031] [NVENC] Closed
+[2025-09-15 21:29:00.095] [WS] Error: Unable to connect to localhost on port 9090, error: Connect error: No error
+[2025-09-15 21:29:04.361] [WS] Error: Unable to connect to localhost on port 9090, error: Connect error: No error
+[2025-09-15 21:29:08.840] [WS] Error: Unable to connect to localhost on port 9090, error: Connect error: No error
+[2025-09-15 21:29:13.738] [WS] Error: Unable to connect to localhost on port 9090, error: Connect error: No error
+[2025-09-15 21:29:19.425] [WS] Error: Unable to connect to localhost on port 9090, error: Connect error: No error
+[2025-09-15 21:29:22.644] [WS] Connected to signaling server
+[2025-09-15 21:29:22.644] SDP Offer sent to browser!
+[2025-09-15 21:29:42.561] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 21:29:42.561] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 21:29:42.561] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 21:29:42.561] onLocalDescription triggered: v=0
+o=rtc 738135939 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 B2:F1:CB:33:31:77:85:E0:67:B8:D3:23:BD:78:E0:BD:F9:09:FF:D5:E5:63:AC:E6:E7:98:8A:C4:40:DC:25:C3
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:htdg
+a=ice-pwd:Sbx8M4xZ/UwuPmTuQZez4R
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:htdg
+a=ice-pwd:Sbx8M4xZ/UwuPmTuQZez4R
+
+[2025-09-15 21:29:42.562] Initializing socket
+[2025-09-15 21:29:42.573] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_212942.h264
+[2025-09-15 21:29:42.573] [NVENC] Open OK
+[2025-09-15 21:29:42.597] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 52860 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 21:29:48.208] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 21:29:48.215] [NVENC] Closed
+[2025-09-15 21:29:51.974] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 21:29:51.974] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 21:29:51.974] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 21:29:51.974] onLocalDescription triggered: v=0
+o=rtc 971293176 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 F0:B7:A3:1A:99:E0:21:2A:20:CB:9C:54:28:E2:FE:EE:8F:1A:5A:73:8F:6B:42:AE:6B:10:B9:A4:0D:A8:67:D3
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:mKfn
+a=ice-pwd:/KpzxQZq2G1vob1+/uULfS
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:mKfn
+a=ice-pwd:/KpzxQZq2G1vob1+/uULfS
+
+[2025-09-15 21:29:51.975] Initializing socket
+[2025-09-15 21:29:51.978] [WS] Connected to signaling server
+[2025-09-15 21:29:51.978] SDP Offer sent to browser!
+[2025-09-15 21:29:51.986] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_212951.h264
+[2025-09-15 21:29:51.986] [NVENC] Open OK
+[2025-09-15 21:29:51.989] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 3607008688092000495 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=video 0 UDP/TLS/RTP/SAVPF 96\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:KcZ4\r\na=ice-pwd:mAi8vlcn124Wbs5lLsOLaXSr\r\na=ice-options:trickle\r\na=fingerprint:sha-256 19:ED:1D:A0:97:BF:DE:FE:0C:2E:DE:3E:E3:E7:AD:E9:61:D6:B9:40:F8:67:82:25:CD:EE:94:25:0F:D1:3D:08\r\na=setup:active\r\na=mid:video\r\na=inactive\r\na=rtcp-mux\r\na=rtpmap:96 H264/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=fmtp:96 level-asymmetry-allowed=1;packetization-mode=0;profile-level-id=42e01f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:tVIx\r\na=ice-pwd:R4pzJffIXQMs/QpYlqpASVQ6\r\na=ice-options:trickle\r\na=fingerprint:sha-256 19:ED:1D:A0:97:BF:DE:FE:0C:2E:DE:3E:E3:E7:AD:E9:61:D6:B9:40:F8:67:82:25:CD:EE:94:25:0F:D1:3D:08\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 21:29:51.989] [WS] Remote already set, ignoring extra answer
+[2025-09-15 21:29:51.992] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:1662615445 1 udp 2113937151 f3aefd46-b577-42ab-977a-63c01908cc8e.local 49707 typ host generation 0 ufrag tVIx network-cost 999","sdpMid":"0"}}
+[2025-09-15 21:29:51.992] Adding ICE candidate: candidate:1662615445 1 udp 2113937151 f3aefd46-b577-42ab-977a-63c01908cc8e.local 49707 typ host generation 0 ufrag tVIx network-cost 999 mid: video
+[2025-09-15 21:29:51.992] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 21:29:51.992] [WS] Received and added ICE candidate
+[2025-09-15 21:29:51.993] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 54682 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 21:29:57.301] [NVENC] Closed
+[2025-09-15 21:29:57.305] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 21:42:55.345] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 21:44:39.979] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 21:44:39.981] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 21:44:39.981] onLocalDescription triggered: v=0
+o=rtc 3853354981 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 57:A8:6C:FF:05:B7:5C:2D:6B:EE:B8:3E:4D:3E:6E:74:F3:9A:34:AC:A8:AF:CB:B4:6B:51:84:AA:5E:0E:3A:FB
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:BPrY
+a=ice-pwd:2CHYtQpOX+NLodxgfvYnfQ
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:BPrY
+a=ice-pwd:2CHYtQpOX+NLodxgfvYnfQ
+
+[2025-09-15 21:44:39.982] Initializing socket
+[2025-09-15 21:44:39.985] [WS] Connected to signaling server
+[2025-09-15 21:44:39.985] SDP Offer sent to browser!
+[2025-09-15 21:44:40.022] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 54067 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 21:44:40.025] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_214440.h264
+[2025-09-15 21:44:40.025] [NVENC] Open OK
+[2025-09-15 21:44:56.095] [NVENC] Closed
+[2025-09-15 21:44:56.102] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 21:45:00.308] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 21:45:00.308] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 21:45:00.308] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 21:45:00.308] onLocalDescription triggered: v=0
+o=rtc 835911093 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 E5:56:7F:F8:0E:FD:7F:B7:BF:3E:07:2F:1A:79:02:B3:96:B4:FB:47:39:A4:8F:F1:16:8A:FB:8C:0E:B7:7E:04
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 42e01f
+a=setup:actpass
+a=ice-ufrag:mknJ
+a=ice-pwd:+Rdjec/cEQBxYLlMp0PwAk
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:mknJ
+a=ice-pwd:+Rdjec/cEQBxYLlMp0PwAk
+
+[2025-09-15 21:45:00.309] Initializing socket
+[2025-09-15 21:45:00.313] [WS] Connected to signaling server
+[2025-09-15 21:45:00.313] SDP Offer sent to browser!
+[2025-09-15 21:45:00.323] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_214500.h264
+[2025-09-15 21:45:00.323] [NVENC] Open OK
+[2025-09-15 21:45:00.331] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 65493 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 21:45:04.317] [NVENC] Closed
+[2025-09-15 21:45:04.320] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 21:56:10.339] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 21:57:05.969] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 21:57:05.972] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 21:57:05.972] onLocalDescription triggered: v=0
+o=rtc 759287037 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 A0:CB:11:97:E5:17:83:78:E0:68:E9:17:96:F2:70:81:BE:3D:24:A0:B1:E0:CB:3D:8A:76:27:0C:0D:BB:0C:67
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 profile-level-id=42e01f;packetization-mode=1;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:dPQq
+a=ice-pwd:ZjgUmDwVD07UFkn4GcgZAE
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:dPQq
+a=ice-pwd:ZjgUmDwVD07UFkn4GcgZAE
+
+[2025-09-15 21:57:05.973] Initializing socket
+[2025-09-15 21:57:05.976] [WS] Connected to signaling server
+[2025-09-15 21:57:05.976] SDP Offer sent to browser!
+[2025-09-15 21:57:06.014] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 63060 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 21:57:06.037] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_215706.h264
+[2025-09-15 21:57:06.037] [NVENC] Open OK
+[2025-09-15 21:57:14.899] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 21:57:14.902] [NVENC] Closed
+[2025-09-15 21:57:19.736] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 21:57:19.736] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 21:57:19.736] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 21:57:19.736] onLocalDescription triggered: v=0
+o=rtc 2615114369 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 AF:A2:4B:6C:89:D3:85:B9:A8:95:36:BD:CC:26:2E:C3:9A:29:D4:61:6E:9B:96:D9:0C:9D:64:59:8D:BA:AF:03
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 profile-level-id=42e01f;packetization-mode=1;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:FXgk
+a=ice-pwd:d9HUD44mAVomCnDoffNxPk
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:FXgk
+a=ice-pwd:d9HUD44mAVomCnDoffNxPk
+
+[2025-09-15 21:57:19.737] Initializing socket
+[2025-09-15 21:57:19.740] [WS] Connected to signaling server
+[2025-09-15 21:57:19.740] SDP Offer sent to browser!
+[2025-09-15 21:57:19.749] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_215719.h264
+[2025-09-15 21:57:19.749] [NVENC] Open OK
+[2025-09-15 21:57:19.778] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 62073 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 21:57:32.983] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 21:57:32.987] [NVENC] Closed
+[2025-09-15 22:07:04.912] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 22:07:59.684] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 22:07:59.687] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 22:07:59.687] onLocalDescription triggered: v=0
+o=rtc 3146626014 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 80:C3:83:94:58:76:46:2C:7E:1E:F1:44:47:5D:F7:39:FC:CD:FC:C0:6E:E4:60:7A:61:25:F1:1F:A9:2B:7A:33
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 profile-level-id=42e01f;packetization-mode=1;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:V0AZ
+a=ice-pwd:kTU2WbmQ9JgBTKUnXN9BD5
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:V0AZ
+a=ice-pwd:kTU2WbmQ9JgBTKUnXN9BD5
+
+[2025-09-15 22:07:59.688] Initializing socket
+[2025-09-15 22:07:59.691] [WS] Connected to signaling server
+[2025-09-15 22:07:59.691] SDP Offer sent to browser!
+[2025-09-15 22:07:59.735] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_220759.h264
+[2025-09-15 22:07:59.735] [NVENC] Open OK
+[2025-09-15 22:08:00.792] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 61217 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 22:08:05.864] [NVENC] Closed
+[2025-09-15 22:08:05.869] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 22:08:17.973] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 22:08:17.973] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 22:08:17.974] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 22:08:17.974] onLocalDescription triggered: v=0
+o=rtc 1942759410 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 E7:0A:2E:52:EE:59:C1:BA:19:16:0A:B4:6F:E0:1A:C7:D7:C7:69:A9:0E:4B:83:CE:06:15:70:C5:DA:39:67:CB
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 profile-level-id=42e01f;packetization-mode=1;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:WJxN
+a=ice-pwd:S719Q4yQNHqP7QtSEEDSC3
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:WJxN
+a=ice-pwd:S719Q4yQNHqP7QtSEEDSC3
+
+[2025-09-15 22:08:17.975] Initializing socket
+[2025-09-15 22:08:17.978] [WS] Connected to signaling server
+[2025-09-15 22:08:17.978] SDP Offer sent to browser!
+[2025-09-15 22:08:17.990] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_220817.h264
+[2025-09-15 22:08:17.990] [NVENC] Open OK
+[2025-09-15 22:08:18.012] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 64249 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 22:08:22.611] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 22:08:22.616] [NVENC] Closed
+[2025-09-15 22:31:15.686] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 22:31:15.686] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 22:31:15.687] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 22:31:15.687] onLocalDescription triggered: v=0
+o=rtc 1397579961 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 D9:DF:CB:5D:CE:59:BA:B9:72:EA:2F:43:FF:7F:92:91:B1:CA:9F:9F:80:F4:88:F9:96:8B:F3:A5:36:96:F6:C4
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 profile-level-id=42e01f;packetization-mode=1;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:cR8G
+a=ice-pwd:WOSAyQD5Zx63nnR9w2kBzZ
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:cR8G
+a=ice-pwd:WOSAyQD5Zx63nnR9w2kBzZ
+
+[2025-09-15 22:31:15.688] Initializing socket
+[2025-09-15 22:31:15.691] [WS] Connected to signaling server
+[2025-09-15 22:31:15.691] SDP Offer sent to browser!
+[2025-09-15 22:31:15.701] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_223115.h264
+[2025-09-15 22:31:15.701] [NVENC] Open OK
+[2025-09-15 22:31:15.725] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 58131 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 22:31:22.622] [NVENC] Closed
+[2025-09-15 22:31:22.627] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 22:34:25.754] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 22:35:04.299] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 22:35:04.302] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 22:35:04.302] onLocalDescription triggered: v=0
+o=rtc 169565481 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 35:D2:C5:89:B2:80:C5:3C:A4:AE:69:19:D0:CF:E8:F0:23:65:3D:0C:B3:7C:38:39:1F:8A:02:CA:09:BD:29:90
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 profile-level-id=42e01f;packetization-mode=1;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:RDN9
+a=ice-pwd:Baf8ogrp2XYQrPRGvbkSQ1
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:RDN9
+a=ice-pwd:Baf8ogrp2XYQrPRGvbkSQ1
+
+[2025-09-15 22:35:04.302] Initializing socket
+[2025-09-15 22:35:04.305] [WS] Connected to signaling server
+[2025-09-15 22:35:04.305] SDP Offer sent to browser!
+[2025-09-15 22:35:04.326] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 10709278719861657 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:WIkg\r\na=ice-pwd:5oFk6I+/CjIRjSrEfVgRr+qc\r\na=ice-options:trickle\r\na=fingerprint:sha-256 72:3F:5F:75:2C:7F:C9:AE:D8:5A:B6:11:53:B4:3C:0E:DC:6D:D4:0C:6B:8B:0A:16:73:D8:99:D9:0F:07:CD:7A\r\na=setup:active\r\na=mid:video\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:96 H264/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:/1ig\r\na=ice-pwd:Bdfbef5ftXSgktbG2+JqczO2\r\na=ice-options:trickle\r\na=fingerprint:sha-256 72:3F:5F:75:2C:7F:C9:AE:D8:5A:B6:11:53:B4:3C:0E:DC:6D:D4:0C:6B:8B:0A:16:73:D8:99:D9:0F:07:CD:7A\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 22:35:04.327] [WS] SDP string: v=0
+o=- 10709278719861657 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic: WMS
+m=video 9 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:WIkg
+a=ice-pwd:5oFk6I+/CjIRjSrEfVgRr+qc
+a=ice-options:trickle
+a=fingerprint:sha-256 72:3F:5F:75:2C:7F:C9:AE:D8:5A:B6:11:53:B4:3C:0E:DC:6D:D4:0C:6B:8B:0A:16:73:D8:99:D9:0F:07:CD:7A
+a=setup:active
+a=mid:video
+a=recvonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 goog-remb
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=ice-ufrag:/1ig
+a=ice-pwd:Bdfbef5ftXSgktbG2+JqczO2
+a=ice-options:trickle
+a=fingerprint:sha-256 72:3F:5F:75:2C:7F:C9:AE:D8:5A:B6:11:53:B4:3C:0E:DC:6D:D4:0C:6B:8B:0A:16:73:D8:99:D9:0F:07:CD:7A
+a=setup:active
+a=mid:0
+a=sctp-port:5000
+a=max-message-size:262144
+
+[2025-09-15 22:35:04.327] setRemoteDescription success
+[2025-09-15 22:35:04.335] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:192428182 1 udp 2113937151 0d213890-6d6b-4725-83e8-949c8208cbf3.local 51815 typ host generation 0 ufrag /1ig network-cost 999","sdpMid":"0"}}
+[2025-09-15 22:35:04.335] Adding ICE candidate: candidate:192428182 1 udp 2113937151 0d213890-6d6b-4725-83e8-949c8208cbf3.local 51815 typ host generation 0 ufrag /1ig network-cost 999 mid: video
+[2025-09-15 22:35:04.335] addRemoteCandidate success
+[2025-09-15 22:35:04.335] [WS] Received and added ICE candidate
+[2025-09-15 22:35:04.335] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:192428182 1 udp 2113937151 0d213890-6d6b-4725-83e8-949c8208cbf3.local 51817 typ host generation 0 ufrag WIkg network-cost 999","sdpMid":"video"}}
+[2025-09-15 22:35:04.335] Adding ICE candidate: candidate:192428182 1 udp 2113937151 0d213890-6d6b-4725-83e8-949c8208cbf3.local 51817 typ host generation 0 ufrag WIkg network-cost 999 mid: video
+[2025-09-15 22:35:04.335] addRemoteCandidate success
+[2025-09-15 22:35:04.335] [WS] Received and added ICE candidate
+[2025-09-15 22:35:04.347] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 51814 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 22:35:04.357] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_223504.h264
+[2025-09-15 22:35:04.357] [NVENC] Open OK
+[2025-09-15 22:35:04.374] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:2319942726 1 udp 1677729535 99.243.255.30 51817 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag WIkg network-cost 999","sdpMid":"video"}}
+[2025-09-15 22:35:04.374] Adding ICE candidate: candidate:2319942726 1 udp 1677729535 99.243.255.30 51817 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag WIkg network-cost 999 mid: video
+[2025-09-15 22:35:04.374] addRemoteCandidate success
+[2025-09-15 22:35:04.374] [WS] Received and added ICE candidate
+[2025-09-15 22:35:04.379] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:2319942726 1 udp 1677729535 99.243.255.30 51815 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag /1ig network-cost 999","sdpMid":"0"}}
+[2025-09-15 22:35:04.379] Adding ICE candidate: candidate:2319942726 1 udp 1677729535 99.243.255.30 51815 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag /1ig network-cost 999 mid: video
+[2025-09-15 22:35:04.379] addRemoteCandidate success
+[2025-09-15 22:35:04.379] [WS] Received and added ICE candidate
+[2025-09-15 22:35:30.601] [NVENC] Closed
+[2025-09-15 22:35:30.607] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 22:35:38.615] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 22:35:38.615] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 22:35:38.615] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 22:35:38.615] onLocalDescription triggered: v=0
+o=rtc 2155532468 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 5E:EB:54:E0:1C:3C:4E:3E:F1:48:8A:1B:6A:38:E9:E5:3D:7E:E8:8D:21:81:4E:8B:5C:D6:98:88:4B:EF:56:E6
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 profile-level-id=42e01f;packetization-mode=1;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:GpLY
+a=ice-pwd:q2EShd9yDTY/YwJrbxDRwT
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:GpLY
+a=ice-pwd:q2EShd9yDTY/YwJrbxDRwT
+
+[2025-09-15 22:35:38.617] Initializing socket
+[2025-09-15 22:35:38.620] [WS] Connected to signaling server
+[2025-09-15 22:35:38.620] SDP Offer sent to browser!
+[2025-09-15 22:35:38.629] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 10709278719861657 3 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:AUzu\r\na=ice-pwd:nd8W9GXIxLS1VV7lWaYGg4rz\r\na=ice-options:trickle\r\na=fingerprint:sha-256 72:3F:5F:75:2C:7F:C9:AE:D8:5A:B6:11:53:B4:3C:0E:DC:6D:D4:0C:6B:8B:0A:16:73:D8:99:D9:0F:07:CD:7A\r\na=setup:active\r\na=mid:video\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:96 H264/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:t3Tt\r\na=ice-pwd:RjG0v0yVNE5Wm5w45ww5+GAI\r\na=ice-options:trickle\r\na=fingerprint:sha-256 72:3F:5F:75:2C:7F:C9:AE:D8:5A:B6:11:53:B4:3C:0E:DC:6D:D4:0C:6B:8B:0A:16:73:D8:99:D9:0F:07:CD:7A\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 22:35:38.630] [WS] Remote already set, ignoring extra answer
+[2025-09-15 22:35:38.630] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_223538.h264
+[2025-09-15 22:35:38.630] [NVENC] Open OK
+[2025-09-15 22:35:38.632] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:192428182 1 udp 2113937151 0d213890-6d6b-4725-83e8-949c8208cbf3.local 50570 typ host generation 1 ufrag t3Tt network-cost 999","sdpMid":"0"}}
+[2025-09-15 22:35:38.632] Adding ICE candidate: candidate:192428182 1 udp 2113937151 0d213890-6d6b-4725-83e8-949c8208cbf3.local 50570 typ host generation 1 ufrag t3Tt network-cost 999 mid: video
+[2025-09-15 22:35:38.633] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 22:35:38.633] [WS] Received and added ICE candidate
+[2025-09-15 22:35:38.633] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:192428182 1 udp 2113937151 0d213890-6d6b-4725-83e8-949c8208cbf3.local 50572 typ host generation 1 ufrag AUzu network-cost 999","sdpMid":"video"}}
+[2025-09-15 22:35:38.633] Adding ICE candidate: candidate:192428182 1 udp 2113937151 0d213890-6d6b-4725-83e8-949c8208cbf3.local 50572 typ host generation 1 ufrag AUzu network-cost 999 mid: video
+[2025-09-15 22:35:38.633] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 22:35:38.633] [WS] Received and added ICE candidate
+[2025-09-15 22:35:38.642] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 50569 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 22:35:38.658] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:2319942726 1 udp 1677729535 99.243.255.30 50570 typ srflx raddr 0.0.0.0 rport 0 generation 1 ufrag t3Tt network-cost 999","sdpMid":"0"}}
+[2025-09-15 22:35:38.658] Adding ICE candidate: candidate:2319942726 1 udp 1677729535 99.243.255.30 50570 typ srflx raddr 0.0.0.0 rport 0 generation 1 ufrag t3Tt network-cost 999 mid: video
+[2025-09-15 22:35:38.658] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 22:35:38.658] [WS] Received and added ICE candidate
+[2025-09-15 22:35:38.658] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:2319942726 1 udp 1677729535 99.243.255.30 50572 typ srflx raddr 0.0.0.0 rport 0 generation 1 ufrag AUzu network-cost 999","sdpMid":"video"}}
+[2025-09-15 22:35:38.658] Adding ICE candidate: candidate:2319942726 1 udp 1677729535 99.243.255.30 50572 typ srflx raddr 0.0.0.0 rport 0 generation 1 ufrag AUzu network-cost 999 mid: video
+[2025-09-15 22:35:38.659] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 22:35:38.659] [WS] Received and added ICE candidate
+[2025-09-15 22:35:49.728] [NVENC] Closed
+[2025-09-15 22:35:49.732] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 22:35:53.733] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 22:35:53.733] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 22:35:53.733] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 22:35:53.733] onLocalDescription triggered: v=0
+o=rtc 2090293004 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 17:29:D4:02:E2:25:69:F5:75:99:D1:70:F1:81:35:B5:AF:05:E6:6B:D2:7D:8E:67:39:47:C2:0D:60:2E:44:71
+m=video 0 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 profile-level-id=42e01f;packetization-mode=1;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:nOWR
+a=ice-pwd:RlBZsWybSW2jAp6fbi3Pgl
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:nOWR
+a=ice-pwd:RlBZsWybSW2jAp6fbi3Pgl
+
+[2025-09-15 22:35:53.735] Initializing socket
+[2025-09-15 22:35:53.738] [WS] Connected to signaling server
+[2025-09-15 22:35:53.738] SDP Offer sent to browser!
+[2025-09-15 22:35:53.747] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_223553.h264
+[2025-09-15 22:35:53.747] [NVENC] Open OK
+[2025-09-15 22:35:53.749] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 3334382672002679626 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:2AyN\r\na=ice-pwd:xkoGyEASt9G5qZ6qZ4M/lJhF\r\na=ice-options:trickle\r\na=fingerprint:sha-256 43:D3:54:D5:75:90:69:0E:FF:69:55:A2:66:EB:91:D3:FE:04:F5:3F:77:A9:40:6E:7B:F3:87:D9:13:08:2E:79\r\na=setup:active\r\na=mid:video\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:96 H264/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:D1wK\r\na=ice-pwd:l2fezc1OgbwWHJd9IIrBePGI\r\na=ice-options:trickle\r\na=fingerprint:sha-256 43:D3:54:D5:75:90:69:0E:FF:69:55:A2:66:EB:91:D3:FE:04:F5:3F:77:A9:40:6E:7B:F3:87:D9:13:08:2E:79\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 22:35:53.749] [WS] Remote already set, ignoring extra answer
+[2025-09-15 22:35:53.754] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:4089049227 1 udp 2113937151 62484767-404c-46cf-8dee-add91abc9e9c.local 54951 typ host generation 0 ufrag D1wK network-cost 999","sdpMid":"0"}}
+[2025-09-15 22:35:53.755] Adding ICE candidate: candidate:4089049227 1 udp 2113937151 62484767-404c-46cf-8dee-add91abc9e9c.local 54951 typ host generation 0 ufrag D1wK network-cost 999 mid: video
+[2025-09-15 22:35:53.755] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 22:35:53.755] [WS] Received and added ICE candidate
+[2025-09-15 22:35:53.755] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:4089049227 1 udp 2113937151 62484767-404c-46cf-8dee-add91abc9e9c.local 54953 typ host generation 0 ufrag 2AyN network-cost 999","sdpMid":"video"}}
+[2025-09-15 22:35:53.755] Adding ICE candidate: candidate:4089049227 1 udp 2113937151 62484767-404c-46cf-8dee-add91abc9e9c.local 54953 typ host generation 0 ufrag 2AyN network-cost 999 mid: video
+[2025-09-15 22:35:53.755] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 22:35:53.755] [WS] Received and added ICE candidate
+[2025-09-15 22:35:53.761] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 54950 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 22:35:53.777] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:1978342883 1 udp 1677729535 99.243.255.30 54953 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag 2AyN network-cost 999","sdpMid":"video"}}
+[2025-09-15 22:35:53.778] Adding ICE candidate: candidate:1978342883 1 udp 1677729535 99.243.255.30 54953 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag 2AyN network-cost 999 mid: video
+[2025-09-15 22:35:53.778] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 22:35:53.778] [WS] Received and added ICE candidate
+[2025-09-15 22:35:53.778] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:1978342883 1 udp 1677729535 99.243.255.30 54951 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag D1wK network-cost 999","sdpMid":"0"}}
+[2025-09-15 22:35:53.778] Adding ICE candidate: candidate:1978342883 1 udp 1677729535 99.243.255.30 54951 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag D1wK network-cost 999 mid: video
+[2025-09-15 22:35:53.778] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 22:35:53.778] [WS] Received and added ICE candidate
+[2025-09-15 22:35:58.202] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 22:35:58.208] [NVENC] Closed
+[2025-09-15 22:40:51.879] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 22:49:35.734] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 22:49:35.737] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 22:49:35.737] onLocalDescription triggered: v=0
+o=rtc 2036941550 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 A6:D3:C2:31:18:D8:18:ED:D5:6D:E4:C7:B8:4A:72:8E:7F:7F:4D:98:6D:46:0D:66:0F:51:49:ED:24:90:10:67
+m=video 9 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 packetization-mode=1;profile-level-id=42e01f;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:7Lpu
+a=ice-pwd:nF2iWC+i/jx3qYmhp+iDzX
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:7Lpu
+a=ice-pwd:nF2iWC+i/jx3qYmhp+iDzX
+
+[2025-09-15 22:49:35.737] Initializing socket
+[2025-09-15 22:49:35.741] [WS] Connected to signaling server
+[2025-09-15 22:49:35.741] SDP Offer sent to browser!
+[2025-09-15 22:49:35.752] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 7234591563577591660 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:hJzN\r\na=ice-pwd:b0G8crmisUHSzqZCqxB7xLFv\r\na=ice-options:trickle\r\na=fingerprint:sha-256 A9:7B:DC:80:DA:9A:13:A3:5D:D6:CB:11:15:D3:0C:57:3D:92:DC:03:12:07:32:D0:73:CF:46:D2:57:24:C2:D5\r\na=setup:active\r\na=mid:video\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:96 H264/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:fCTx\r\na=ice-pwd:lJvw9R0k8ljvcHaZD3OsGJk/\r\na=ice-options:trickle\r\na=fingerprint:sha-256 A9:7B:DC:80:DA:9A:13:A3:5D:D6:CB:11:15:D3:0C:57:3D:92:DC:03:12:07:32:D0:73:CF:46:D2:57:24:C2:D5\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 22:49:35.752] [WS] SDP string: v=0
+o=- 7234591563577591660 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic: WMS
+m=video 9 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:hJzN
+a=ice-pwd:b0G8crmisUHSzqZCqxB7xLFv
+a=ice-options:trickle
+a=fingerprint:sha-256 A9:7B:DC:80:DA:9A:13:A3:5D:D6:CB:11:15:D3:0C:57:3D:92:DC:03:12:07:32:D0:73:CF:46:D2:57:24:C2:D5
+a=setup:active
+a=mid:video
+a=recvonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 goog-remb
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=ice-ufrag:fCTx
+a=ice-pwd:lJvw9R0k8ljvcHaZD3OsGJk/
+a=ice-options:trickle
+a=fingerprint:sha-256 A9:7B:DC:80:DA:9A:13:A3:5D:D6:CB:11:15:D3:0C:57:3D:92:DC:03:12:07:32:D0:73:CF:46:D2:57:24:C2:D5
+a=setup:active
+a=mid:0
+a=sctp-port:5000
+a=max-message-size:262144
+
+[2025-09-15 22:49:35.753] setRemoteDescription success
+[2025-09-15 22:49:35.756] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:2591429411 1 udp 2113937151 dc936945-045d-43fe-ae6a-e61a56e96b8b.local 60258 typ host generation 0 ufrag fCTx network-cost 999","sdpMid":"0"}}
+[2025-09-15 22:49:35.757] Adding ICE candidate: candidate:2591429411 1 udp 2113937151 dc936945-045d-43fe-ae6a-e61a56e96b8b.local 60258 typ host generation 0 ufrag fCTx network-cost 999 mid: video
+[2025-09-15 22:49:35.757] addRemoteCandidate success
+[2025-09-15 22:49:35.757] [WS] Received and added ICE candidate
+[2025-09-15 22:49:35.757] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:2591429411 1 udp 2113937151 dc936945-045d-43fe-ae6a-e61a56e96b8b.local 60260 typ host generation 0 ufrag hJzN network-cost 999","sdpMid":"video"}}
+[2025-09-15 22:49:35.757] Adding ICE candidate: candidate:2591429411 1 udp 2113937151 dc936945-045d-43fe-ae6a-e61a56e96b8b.local 60260 typ host generation 0 ufrag hJzN network-cost 999 mid: video
+[2025-09-15 22:49:35.757] addRemoteCandidate success
+[2025-09-15 22:49:35.757] [WS] Received and added ICE candidate
+[2025-09-15 22:49:35.778] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 60257 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 22:49:35.788] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_224935.h264
+[2025-09-15 22:49:35.788] [NVENC] Open OK
+[2025-09-15 22:49:35.789] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:457814003 1 udp 1677729535 99.243.255.30 60260 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag hJzN network-cost 999","sdpMid":"video"}}
+[2025-09-15 22:49:35.789] Adding ICE candidate: candidate:457814003 1 udp 1677729535 99.243.255.30 60260 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag hJzN network-cost 999 mid: video
+[2025-09-15 22:49:35.789] addRemoteCandidate success
+[2025-09-15 22:49:35.789] [WS] Received and added ICE candidate
+[2025-09-15 22:49:35.789] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:457814003 1 udp 1677729535 99.243.255.30 60258 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag fCTx network-cost 999","sdpMid":"0"}}
+[2025-09-15 22:49:35.790] Adding ICE candidate: candidate:457814003 1 udp 1677729535 99.243.255.30 60258 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag fCTx network-cost 999 mid: video
+[2025-09-15 22:49:35.790] addRemoteCandidate success
+[2025-09-15 22:49:35.790] [WS] Received and added ICE candidate
+[2025-09-15 22:49:42.832] [NVENC] Closed
+[2025-09-15 22:49:42.837] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 22:50:14.414] [WebRTC][DLL] PeerConnection state: 4
+[2025-09-15 22:50:14.414] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 22:50:34.941] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 22:50:34.941] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 22:50:34.941] onLocalDescription triggered: v=0
+o=rtc 1759106769 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 B6:F5:71:DF:3F:33:F3:8C:49:B8:0D:4C:07:B1:DF:F9:CA:50:4D:A4:80:75:0C:E9:FF:30:6A:E1:1E:C3:FE:1D
+m=video 9 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 packetization-mode=1;profile-level-id=42e01f;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:5TaE
+a=ice-pwd:/7Ql/0r3lwAAu+NI6D59b4
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:5TaE
+a=ice-pwd:/7Ql/0r3lwAAu+NI6D59b4
+
+[2025-09-15 22:50:34.942] Initializing socket
+[2025-09-15 22:50:34.946] [WS] Connected to signaling server
+[2025-09-15 22:50:34.946] SDP Offer sent to browser!
+[2025-09-15 22:50:34.955] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 7234591563577591660 3 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:CTx2\r\na=ice-pwd:XVdrHA/4siFawv/6Z98h79vb\r\na=ice-options:trickle\r\na=fingerprint:sha-256 A9:7B:DC:80:DA:9A:13:A3:5D:D6:CB:11:15:D3:0C:57:3D:92:DC:03:12:07:32:D0:73:CF:46:D2:57:24:C2:D5\r\na=setup:active\r\na=mid:video\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:96 H264/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:Pby/\r\na=ice-pwd:7YYe6Es4Uw71bgAyAJTEox2x\r\na=ice-options:trickle\r\na=fingerprint:sha-256 A9:7B:DC:80:DA:9A:13:A3:5D:D6:CB:11:15:D3:0C:57:3D:92:DC:03:12:07:32:D0:73:CF:46:D2:57:24:C2:D5\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 22:50:34.955] [WS] Remote already set, ignoring extra answer
+[2025-09-15 22:50:34.957] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_225034.h264
+[2025-09-15 22:50:34.957] [NVENC] Open OK
+[2025-09-15 22:50:34.957] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:2591429411 1 udp 2113937151 dc936945-045d-43fe-ae6a-e61a56e96b8b.local 58775 typ host generation 1 ufrag Pby/ network-cost 999","sdpMid":"0"}}
+[2025-09-15 22:50:34.957] Adding ICE candidate: candidate:2591429411 1 udp 2113937151 dc936945-045d-43fe-ae6a-e61a56e96b8b.local 58775 typ host generation 1 ufrag Pby/ network-cost 999 mid: video
+[2025-09-15 22:50:34.957] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 22:50:34.957] [WS] Received and added ICE candidate
+[2025-09-15 22:50:34.957] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:2591429411 1 udp 2113937151 dc936945-045d-43fe-ae6a-e61a56e96b8b.local 58777 typ host generation 1 ufrag CTx2 network-cost 999","sdpMid":"video"}}
+[2025-09-15 22:50:34.957] Adding ICE candidate: candidate:2591429411 1 udp 2113937151 dc936945-045d-43fe-ae6a-e61a56e96b8b.local 58777 typ host generation 1 ufrag CTx2 network-cost 999 mid: video
+[2025-09-15 22:50:34.957] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 22:50:34.957] [WS] Received and added ICE candidate
+[2025-09-15 22:50:34.986] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:457814003 1 udp 1677729535 99.243.255.30 58775 typ srflx raddr 0.0.0.0 rport 0 generation 1 ufrag Pby/ network-cost 999","sdpMid":"0"}}
+[2025-09-15 22:50:34.986] Adding ICE candidate: candidate:457814003 1 udp 1677729535 99.243.255.30 58775 typ srflx raddr 0.0.0.0 rport 0 generation 1 ufrag Pby/ network-cost 999 mid: video
+[2025-09-15 22:50:34.986] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 22:50:34.986] [WS] Received and added ICE candidate
+[2025-09-15 22:50:34.986] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 58774 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 22:50:34.988] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:457814003 1 udp 1677729535 99.243.255.30 58777 typ srflx raddr 0.0.0.0 rport 0 generation 1 ufrag CTx2 network-cost 999","sdpMid":"video"}}
+[2025-09-15 22:50:34.988] Adding ICE candidate: candidate:457814003 1 udp 1677729535 99.243.255.30 58777 typ srflx raddr 0.0.0.0 rport 0 generation 1 ufrag CTx2 network-cost 999 mid: video
+[2025-09-15 22:50:34.988] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 22:50:34.988] [WS] Received and added ICE candidate
+[2025-09-15 22:50:42.942] [NVENC] Closed
+[2025-09-15 22:50:42.947] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 22:55:06.876] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 22:55:06.876] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 22:55:06.877] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 22:55:06.877] onLocalDescription triggered: v=0
+o=rtc 1051871340 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 F1:15:4B:E0:51:57:1A:5F:8F:0B:E8:C5:BF:CD:C6:09:88:7E:1C:11:E1:4A:52:23:83:5D:2F:9D:02:8F:44:58
+m=video 9 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 packetization-mode=1;profile-level-id=42e01f;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:s15C
+a=ice-pwd:HS9AdB5oUVim62yXUECyvd
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:s15C
+a=ice-pwd:HS9AdB5oUVim62yXUECyvd
+
+[2025-09-15 22:55:06.878] Initializing socket
+[2025-09-15 22:55:06.881] [WS] Connected to signaling server
+[2025-09-15 22:55:06.881] SDP Offer sent to browser!
+[2025-09-15 22:55:06.892] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 4898262805424018780 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:0uyf\r\na=ice-pwd:CcRFkZAlNSf/H5ZTw3abivOo\r\na=ice-options:trickle\r\na=fingerprint:sha-256 53:AC:BD:13:42:3F:FC:84:EE:D2:11:4B:96:5D:6C:22:0C:F2:0D:32:E1:3A:E2:D1:94:FE:C9:07:28:D4:D3:38\r\na=setup:active\r\na=mid:video\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:96 H264/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:aqSj\r\na=ice-pwd:UHV63ck4ySMzhJtDg2Yu7OdH\r\na=ice-options:trickle\r\na=fingerprint:sha-256 53:AC:BD:13:42:3F:FC:84:EE:D2:11:4B:96:5D:6C:22:0C:F2:0D:32:E1:3A:E2:D1:94:FE:C9:07:28:D4:D3:38\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 22:55:06.892] [WS] Remote already set, ignoring extra answer
+[2025-09-15 22:55:06.893] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_225506.h264
+[2025-09-15 22:55:06.894] [NVENC] Open OK
+[2025-09-15 22:55:06.896] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:591003625 1 udp 2113937151 9a269592-5315-461f-b6dc-5c3db8612e0a.local 64807 typ host generation 0 ufrag aqSj network-cost 999","sdpMid":"0"}}
+[2025-09-15 22:55:06.896] Adding ICE candidate: candidate:591003625 1 udp 2113937151 9a269592-5315-461f-b6dc-5c3db8612e0a.local 64807 typ host generation 0 ufrag aqSj network-cost 999 mid: video
+[2025-09-15 22:55:06.896] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 22:55:06.896] [WS] Received and added ICE candidate
+[2025-09-15 22:55:06.897] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:591003625 1 udp 2113937151 9a269592-5315-461f-b6dc-5c3db8612e0a.local 64809 typ host generation 0 ufrag 0uyf network-cost 999","sdpMid":"video"}}
+[2025-09-15 22:55:06.897] Adding ICE candidate: candidate:591003625 1 udp 2113937151 9a269592-5315-461f-b6dc-5c3db8612e0a.local 64809 typ host generation 0 ufrag 0uyf network-cost 999 mid: video
+[2025-09-15 22:55:06.897] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 22:55:06.897] [WS] Received and added ICE candidate
+[2025-09-15 22:55:06.915] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 64806 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 22:55:06.932] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:2775257729 1 udp 1677729535 99.243.255.30 64807 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag aqSj network-cost 999","sdpMid":"0"}}
+[2025-09-15 22:55:06.932] Adding ICE candidate: candidate:2775257729 1 udp 1677729535 99.243.255.30 64807 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag aqSj network-cost 999 mid: video
+[2025-09-15 22:55:06.932] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 22:55:06.932] [WS] Received and added ICE candidate
+[2025-09-15 22:55:06.941] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:2775257729 1 udp 1677729535 99.243.255.30 64809 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag 0uyf network-cost 999","sdpMid":"video"}}
+[2025-09-15 22:55:06.941] Adding ICE candidate: candidate:2775257729 1 udp 1677729535 99.243.255.30 64809 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag 0uyf network-cost 999 mid: video
+[2025-09-15 22:55:06.941] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 22:55:06.941] [WS] Received and added ICE candidate
+[2025-09-15 22:55:17.085] [NVENC] Closed
+[2025-09-15 22:55:17.089] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 23:04:03.938] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 23:05:24.178] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 23:05:24.180] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 23:05:24.180] onLocalDescription triggered: v=0
+o=rtc 1714597391 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 EE:76:F7:E8:C4:32:50:9D:FE:AA:CE:21:F9:C7:2C:CD:3B:FB:25:45:2F:68:FE:6B:17:92:22:92:5A:C6:2E:38
+m=video 9 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 packetization-mode=1;profile-level-id=42e01f;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:4gLe
+a=ice-pwd:G5/IZ9xNBkR2w/vym412L0
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:4gLe
+a=ice-pwd:G5/IZ9xNBkR2w/vym412L0
+
+[2025-09-15 23:05:24.181] Initializing socket
+[2025-09-15 23:05:24.186] [WS] Connected to signaling server
+[2025-09-15 23:05:24.186] SDP Offer sent to browser!
+[2025-09-15 23:05:24.198] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 1180859925622077510 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:lSde\r\na=ice-pwd:JFsZDqgD0G98zqMU5iOq5IBf\r\na=ice-options:trickle\r\na=fingerprint:sha-256 20:77:5B:34:39:19:5B:08:09:54:75:EF:3C:E7:58:89:6A:6D:9B:19:C4:59:EE:42:11:A2:F5:71:A1:BC:EB:2F\r\na=setup:active\r\na=mid:video\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:96 H264/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:OgSs\r\na=ice-pwd:PR6SrluqvU5Mhxh62l8MCBrU\r\na=ice-options:trickle\r\na=fingerprint:sha-256 20:77:5B:34:39:19:5B:08:09:54:75:EF:3C:E7:58:89:6A:6D:9B:19:C4:59:EE:42:11:A2:F5:71:A1:BC:EB:2F\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 23:05:24.198] [WS] SDP string: v=0
+o=- 1180859925622077510 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic: WMS
+m=video 9 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:lSde
+a=ice-pwd:JFsZDqgD0G98zqMU5iOq5IBf
+a=ice-options:trickle
+a=fingerprint:sha-256 20:77:5B:34:39:19:5B:08:09:54:75:EF:3C:E7:58:89:6A:6D:9B:19:C4:59:EE:42:11:A2:F5:71:A1:BC:EB:2F
+a=setup:active
+a=mid:video
+a=recvonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 goog-remb
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=ice-ufrag:OgSs
+a=ice-pwd:PR6SrluqvU5Mhxh62l8MCBrU
+a=ice-options:trickle
+a=fingerprint:sha-256 20:77:5B:34:39:19:5B:08:09:54:75:EF:3C:E7:58:89:6A:6D:9B:19:C4:59:EE:42:11:A2:F5:71:A1:BC:EB:2F
+a=setup:active
+a=mid:0
+a=sctp-port:5000
+a=max-message-size:262144
+
+[2025-09-15 23:05:24.198] setRemoteDescription success
+[2025-09-15 23:05:24.204] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:2545832689 1 udp 2113937151 76e95cc8-25c6-4e44-9239-690e42ac9114.local 51591 typ host generation 0 ufrag OgSs network-cost 999","sdpMid":"0"}}
+[2025-09-15 23:05:24.204] Adding ICE candidate: candidate:2545832689 1 udp 2113937151 76e95cc8-25c6-4e44-9239-690e42ac9114.local 51591 typ host generation 0 ufrag OgSs network-cost 999 mid: video
+[2025-09-15 23:05:24.204] addRemoteCandidate success
+[2025-09-15 23:05:24.204] [WS] Received and added ICE candidate
+[2025-09-15 23:05:24.205] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:2545832689 1 udp 2113937151 76e95cc8-25c6-4e44-9239-690e42ac9114.local 51593 typ host generation 0 ufrag lSde network-cost 999","sdpMid":"video"}}
+[2025-09-15 23:05:24.205] Adding ICE candidate: candidate:2545832689 1 udp 2113937151 76e95cc8-25c6-4e44-9239-690e42ac9114.local 51593 typ host generation 0 ufrag lSde network-cost 999 mid: video
+[2025-09-15 23:05:24.205] addRemoteCandidate success
+[2025-09-15 23:05:24.205] [WS] Received and added ICE candidate
+[2025-09-15 23:05:24.229] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 53911 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 23:05:24.233] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_230524.h264
+[2025-09-15 23:05:24.233] [NVENC] Open OK
+[2025-09-15 23:05:24.251] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:377613857 1 udp 1677729535 99.243.255.30 51593 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag lSde network-cost 999","sdpMid":"video"}}
+[2025-09-15 23:05:24.251] Adding ICE candidate: candidate:377613857 1 udp 1677729535 99.243.255.30 51593 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag lSde network-cost 999 mid: video
+[2025-09-15 23:05:24.251] addRemoteCandidate success
+[2025-09-15 23:05:24.251] [WS] Received and added ICE candidate
+[2025-09-15 23:05:24.251] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:377613857 1 udp 1677729535 99.243.255.30 51591 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag OgSs network-cost 999","sdpMid":"0"}}
+[2025-09-15 23:05:24.251] Adding ICE candidate: candidate:377613857 1 udp 1677729535 99.243.255.30 51591 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag OgSs network-cost 999 mid: video
+[2025-09-15 23:05:24.251] addRemoteCandidate success
+[2025-09-15 23:05:24.251] [WS] Received and added ICE candidate
+[2025-09-15 23:05:29.542] [NVENC] Closed
+[2025-09-15 23:05:29.551] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 23:06:02.584] [WebRTC][DLL] PeerConnection state: 4
+[2025-09-15 23:06:02.584] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 23:06:39.223] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 23:06:39.223] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 23:06:39.223] onLocalDescription triggered: v=0
+o=rtc 35657717 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 91:1D:C2:9A:D1:EE:E6:89:4C:FA:B0:CC:26:3C:EA:6A:9F:12:0E:03:A2:D2:C9:CE:53:E7:18:26:5E:71:DE:91
+m=video 9 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 packetization-mode=1;profile-level-id=42e01f;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:rYPN
+a=ice-pwd:ybf3Z8Z//owC5Buk8klfMh
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:rYPN
+a=ice-pwd:ybf3Z8Z//owC5Buk8klfMh
+
+[2025-09-15 23:06:39.224] Initializing socket
+[2025-09-15 23:06:39.228] [WS] Connected to signaling server
+[2025-09-15 23:06:39.228] SDP Offer sent to browser!
+[2025-09-15 23:06:39.235] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 1180859925622077510 3 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:M0Ei\r\na=ice-pwd:eqYKt+gc2taSTgEP7U5+vHsb\r\na=ice-options:trickle\r\na=fingerprint:sha-256 20:77:5B:34:39:19:5B:08:09:54:75:EF:3C:E7:58:89:6A:6D:9B:19:C4:59:EE:42:11:A2:F5:71:A1:BC:EB:2F\r\na=setup:active\r\na=mid:video\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:96 H264/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:Z1qH\r\na=ice-pwd:zuVHpGrUtWHRsKDkdFe+6ZWn\r\na=ice-options:trickle\r\na=fingerprint:sha-256 20:77:5B:34:39:19:5B:08:09:54:75:EF:3C:E7:58:89:6A:6D:9B:19:C4:59:EE:42:11:A2:F5:71:A1:BC:EB:2F\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 23:06:39.236] [WS] Remote already set, ignoring extra answer
+[2025-09-15 23:06:39.238] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:2545832689 1 udp 2113937151 76e95cc8-25c6-4e44-9239-690e42ac9114.local 60779 typ host generation 1 ufrag Z1qH network-cost 999","sdpMid":"0"}}
+[2025-09-15 23:06:39.238] Adding ICE candidate: candidate:2545832689 1 udp 2113937151 76e95cc8-25c6-4e44-9239-690e42ac9114.local 60779 typ host generation 1 ufrag Z1qH network-cost 999 mid: video
+[2025-09-15 23:06:39.238] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:06:39.238] [WS] Received and added ICE candidate
+[2025-09-15 23:06:39.239] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:2545832689 1 udp 2113937151 76e95cc8-25c6-4e44-9239-690e42ac9114.local 60781 typ host generation 1 ufrag M0Ei network-cost 999","sdpMid":"video"}}
+[2025-09-15 23:06:39.239] Adding ICE candidate: candidate:2545832689 1 udp 2113937151 76e95cc8-25c6-4e44-9239-690e42ac9114.local 60781 typ host generation 1 ufrag M0Ei network-cost 999 mid: video
+[2025-09-15 23:06:39.239] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:06:39.239] [WS] Received and added ICE candidate
+[2025-09-15 23:06:39.267] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:377613857 1 udp 1677729535 99.243.255.30 60781 typ srflx raddr 0.0.0.0 rport 0 generation 1 ufrag M0Ei network-cost 999","sdpMid":"video"}}
+[2025-09-15 23:06:39.267] Adding ICE candidate: candidate:377613857 1 udp 1677729535 99.243.255.30 60781 typ srflx raddr 0.0.0.0 rport 0 generation 1 ufrag M0Ei network-cost 999 mid: video
+[2025-09-15 23:06:39.267] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:06:39.267] [WS] Received and added ICE candidate
+[2025-09-15 23:06:39.267] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:377613857 1 udp 1677729535 99.243.255.30 60779 typ srflx raddr 0.0.0.0 rport 0 generation 1 ufrag Z1qH network-cost 999","sdpMid":"0"}}
+[2025-09-15 23:06:39.268] Adding ICE candidate: candidate:377613857 1 udp 1677729535 99.243.255.30 60779 typ srflx raddr 0.0.0.0 rport 0 generation 1 ufrag Z1qH network-cost 999 mid: video
+[2025-09-15 23:06:39.268] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:06:39.268] [WS] Received and added ICE candidate
+[2025-09-15 23:06:39.268] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 60778 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 23:06:39.331] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_230639.h264
+[2025-09-15 23:06:39.331] [NVENC] Open OK
+[2025-09-15 23:06:57.567] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 23:06:57.574] [NVENC] Closed
+[2025-09-15 23:07:58.380] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 23:07:58.380] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 23:07:58.380] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 23:07:58.380] onLocalDescription triggered: v=0
+o=rtc 548303403 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 AD:2F:8B:44:98:F9:78:A2:10:E0:F8:EA:80:9F:86:E2:B4:04:DF:51:49:26:48:BC:81:CE:F3:B3:1D:1F:92:19
+m=video 9 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 packetization-mode=1;profile-level-id=42e01f;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:q8SQ
+a=ice-pwd:Ld+b1uxj3qZlmtHUB2raL7
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:q8SQ
+a=ice-pwd:Ld+b1uxj3qZlmtHUB2raL7
+
+[2025-09-15 23:07:58.381] Initializing socket
+[2025-09-15 23:07:58.384] [WS] Connected to signaling server
+[2025-09-15 23:07:58.385] SDP Offer sent to browser!
+[2025-09-15 23:07:58.394] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_230758.h264
+[2025-09-15 23:07:58.394] [NVENC] Open OK
+[2025-09-15 23:07:58.396] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 5942892056956752865 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:1vVr\r\na=ice-pwd:Dc+6ELPd3DOuriJRNg+c1/ve\r\na=ice-options:trickle\r\na=fingerprint:sha-256 9F:15:30:77:06:57:8D:87:62:42:5E:62:3B:DA:B8:59:E0:D1:83:8E:73:A6:6F:F1:74:C9:0C:F8:ED:28:09:35\r\na=setup:active\r\na=mid:video\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:96 H264/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:oelj\r\na=ice-pwd:ET41Jz+EjzwcpwwT2sTwGyb1\r\na=ice-options:trickle\r\na=fingerprint:sha-256 9F:15:30:77:06:57:8D:87:62:42:5E:62:3B:DA:B8:59:E0:D1:83:8E:73:A6:6F:F1:74:C9:0C:F8:ED:28:09:35\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 23:07:58.396] [WS] Remote already set, ignoring extra answer
+[2025-09-15 23:07:58.400] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:1627104508 1 udp 2113937151 ae70dc6e-dc36-40b9-a523-e98223b2f961.local 56629 typ host generation 0 ufrag oelj network-cost 999","sdpMid":"0"}}
+[2025-09-15 23:07:58.400] Adding ICE candidate: candidate:1627104508 1 udp 2113937151 ae70dc6e-dc36-40b9-a523-e98223b2f961.local 56629 typ host generation 0 ufrag oelj network-cost 999 mid: video
+[2025-09-15 23:07:58.400] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:07:58.400] [WS] Received and added ICE candidate
+[2025-09-15 23:07:58.400] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:1627104508 1 udp 2113937151 ae70dc6e-dc36-40b9-a523-e98223b2f961.local 56631 typ host generation 0 ufrag 1vVr network-cost 999","sdpMid":"video"}}
+[2025-09-15 23:07:58.400] Adding ICE candidate: candidate:1627104508 1 udp 2113937151 ae70dc6e-dc36-40b9-a523-e98223b2f961.local 56631 typ host generation 0 ufrag 1vVr network-cost 999 mid: video
+[2025-09-15 23:07:58.400] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:07:58.401] [WS] Received and added ICE candidate
+[2025-09-15 23:07:58.425] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 56628 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 23:07:58.435] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:3869854100 1 udp 1677729535 99.243.255.30 56629 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag oelj network-cost 999","sdpMid":"0"}}
+[2025-09-15 23:07:58.435] Adding ICE candidate: candidate:3869854100 1 udp 1677729535 99.243.255.30 56629 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag oelj network-cost 999 mid: video
+[2025-09-15 23:07:58.435] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:07:58.435] [WS] Received and added ICE candidate
+[2025-09-15 23:07:58.443] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:3869854100 1 udp 1677729535 99.243.255.30 56631 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag 1vVr network-cost 999","sdpMid":"video"}}
+[2025-09-15 23:07:58.443] Adding ICE candidate: candidate:3869854100 1 udp 1677729535 99.243.255.30 56631 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag 1vVr network-cost 999 mid: video
+[2025-09-15 23:07:58.443] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:07:58.443] [WS] Received and added ICE candidate
+[2025-09-15 23:08:04.202] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 23:08:04.208] [NVENC] Closed
+[2025-09-15 23:08:37.852] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 23:08:37.852] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 23:08:37.853] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 23:08:37.853] onLocalDescription triggered: v=0
+o=rtc 1138615888 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 B5:F9:BF:50:6C:C8:A1:C4:65:58:4E:7F:01:0C:3B:48:AF:5E:17:A1:B9:64:3D:D8:C6:D6:2A:36:F3:20:AA:F4
+m=video 9 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 packetization-mode=1;profile-level-id=42e01f;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:E4HR
+a=ice-pwd:NT+wdEf2yV6ynot358C9HN
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:E4HR
+a=ice-pwd:NT+wdEf2yV6ynot358C9HN
+
+[2025-09-15 23:08:37.854] Initializing socket
+[2025-09-15 23:08:37.857] [WS] Connected to signaling server
+[2025-09-15 23:08:37.857] SDP Offer sent to browser!
+[2025-09-15 23:08:37.865] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_230837.h264
+[2025-09-15 23:08:37.865] [NVENC] Open OK
+[2025-09-15 23:08:37.871] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 2951196384075900700 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:tmp2\r\na=ice-pwd:5/VYrE3nCN64jOmqLbJoVYwd\r\na=ice-options:trickle\r\na=fingerprint:sha-256 18:71:EF:CF:EF:97:48:40:CA:1F:75:F0:8D:E8:A7:35:4D:9D:CC:0A:1E:46:6E:C7:D1:D4:10:9A:72:98:DE:9B\r\na=setup:active\r\na=mid:video\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:96 H264/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:LhK+\r\na=ice-pwd:igY+nz+mdWK4+dPsJuALnkle\r\na=ice-options:trickle\r\na=fingerprint:sha-256 18:71:EF:CF:EF:97:48:40:CA:1F:75:F0:8D:E8:A7:35:4D:9D:CC:0A:1E:46:6E:C7:D1:D4:10:9A:72:98:DE:9B\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 23:08:37.871] [WS] Remote already set, ignoring extra answer
+[2025-09-15 23:08:37.875] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:203283936 1 udp 2113937151 e38a883e-e1cd-4472-a74e-f30a7783584e.local 62725 typ host generation 0 ufrag LhK+ network-cost 999","sdpMid":"0"}}
+[2025-09-15 23:08:37.875] Adding ICE candidate: candidate:203283936 1 udp 2113937151 e38a883e-e1cd-4472-a74e-f30a7783584e.local 62725 typ host generation 0 ufrag LhK+ network-cost 999 mid: video
+[2025-09-15 23:08:37.876] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:08:37.876] [WS] Received and added ICE candidate
+[2025-09-15 23:08:37.876] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:203283936 1 udp 2113937151 e38a883e-e1cd-4472-a74e-f30a7783584e.local 62727 typ host generation 0 ufrag tmp2 network-cost 999","sdpMid":"video"}}
+[2025-09-15 23:08:37.876] Adding ICE candidate: candidate:203283936 1 udp 2113937151 e38a883e-e1cd-4472-a74e-f30a7783584e.local 62727 typ host generation 0 ufrag tmp2 network-cost 999 mid: video
+[2025-09-15 23:08:37.877] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:08:37.877] [WS] Received and added ICE candidate
+[2025-09-15 23:08:37.898] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:2367840560 1 udp 1677729535 99.243.255.30 62727 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag tmp2 network-cost 999","sdpMid":"video"}}
+[2025-09-15 23:08:37.898] Adding ICE candidate: candidate:2367840560 1 udp 1677729535 99.243.255.30 62727 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag tmp2 network-cost 999 mid: video
+[2025-09-15 23:08:37.899] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:08:37.899] [WS] Received and added ICE candidate
+[2025-09-15 23:08:37.899] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:2367840560 1 udp 1677729535 99.243.255.30 62725 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag LhK+ network-cost 999","sdpMid":"0"}}
+[2025-09-15 23:08:37.899] Adding ICE candidate: candidate:2367840560 1 udp 1677729535 99.243.255.30 62725 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag LhK+ network-cost 999 mid: video
+[2025-09-15 23:08:37.899] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:08:37.899] [WS] Received and added ICE candidate
+[2025-09-15 23:08:37.906] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 62724 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 23:08:44.228] [NVENC] Closed
+[2025-09-15 23:08:44.234] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 23:15:30.476] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 23:16:25.974] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 23:16:25.976] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 23:16:25.977] onLocalDescription triggered: v=0
+o=rtc 2673512532 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 A0:90:63:50:0A:A2:A2:D3:C0:F1:9E:13:52:8D:3B:6B:D4:FE:7B:1A:55:19:00:18:93:DB:A7:B5:CA:FE:D8:FA
+m=video 9 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 packetization-mode=1;profile-level-id=42e01f;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:MvRS
+a=ice-pwd:m5g8jtFBC2dfnUHC+PGevW
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:MvRS
+a=ice-pwd:m5g8jtFBC2dfnUHC+PGevW
+
+[2025-09-15 23:16:25.977] Initializing socket
+[2025-09-15 23:16:25.980] [WS] Connected to signaling server
+[2025-09-15 23:16:25.980] SDP Offer sent to browser!
+[2025-09-15 23:16:25.991] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 7557488728874134315 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:yboR\r\na=ice-pwd:SaksdTMF9hFmyMUlB5rOPjm9\r\na=ice-options:trickle\r\na=fingerprint:sha-256 B2:16:27:53:62:49:CC:8F:9F:69:F0:8D:2E:D4:D3:3A:5F:66:B2:70:89:59:E6:EF:70:E8:58:AE:38:13:B4:CE\r\na=setup:active\r\na=mid:video\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:96 H264/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:2Zmf\r\na=ice-pwd:BevzrTdyp1TRa21MtvZ63p5H\r\na=ice-options:trickle\r\na=fingerprint:sha-256 B2:16:27:53:62:49:CC:8F:9F:69:F0:8D:2E:D4:D3:3A:5F:66:B2:70:89:59:E6:EF:70:E8:58:AE:38:13:B4:CE\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 23:16:25.991] [WS] SDP string: v=0
+o=- 7557488728874134315 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic: WMS
+m=video 9 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:yboR
+a=ice-pwd:SaksdTMF9hFmyMUlB5rOPjm9
+a=ice-options:trickle
+a=fingerprint:sha-256 B2:16:27:53:62:49:CC:8F:9F:69:F0:8D:2E:D4:D3:3A:5F:66:B2:70:89:59:E6:EF:70:E8:58:AE:38:13:B4:CE
+a=setup:active
+a=mid:video
+a=recvonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 goog-remb
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=ice-ufrag:2Zmf
+a=ice-pwd:BevzrTdyp1TRa21MtvZ63p5H
+a=ice-options:trickle
+a=fingerprint:sha-256 B2:16:27:53:62:49:CC:8F:9F:69:F0:8D:2E:D4:D3:3A:5F:66:B2:70:89:59:E6:EF:70:E8:58:AE:38:13:B4:CE
+a=setup:active
+a=mid:0
+a=sctp-port:5000
+a=max-message-size:262144
+
+[2025-09-15 23:16:25.991] setRemoteDescription success
+[2025-09-15 23:16:25.996] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:3628604437 1 udp 2113937151 71c6bf4f-cb69-47c9-8d0e-1a7fc85afd33.local 61119 typ host generation 0 ufrag 2Zmf network-cost 999","sdpMid":"0"}}
+[2025-09-15 23:16:25.996] Adding ICE candidate: candidate:3628604437 1 udp 2113937151 71c6bf4f-cb69-47c9-8d0e-1a7fc85afd33.local 61119 typ host generation 0 ufrag 2Zmf network-cost 999 mid: 0
+[2025-09-15 23:16:25.996] addRemoteCandidate success
+[2025-09-15 23:16:25.996] [WS] Received and added ICE candidate
+[2025-09-15 23:16:25.996] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:3628604437 1 udp 2113937151 71c6bf4f-cb69-47c9-8d0e-1a7fc85afd33.local 61121 typ host generation 0 ufrag yboR network-cost 999","sdpMid":"video"}}
+[2025-09-15 23:16:25.997] Adding ICE candidate: candidate:3628604437 1 udp 2113937151 71c6bf4f-cb69-47c9-8d0e-1a7fc85afd33.local 61121 typ host generation 0 ufrag yboR network-cost 999 mid: video
+[2025-09-15 23:16:25.997] addRemoteCandidate success
+[2025-09-15 23:16:25.997] [WS] Received and added ICE candidate
+[2025-09-15 23:16:26.028] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:1501012165 1 udp 1677729535 99.243.255.30 61119 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag 2Zmf network-cost 999","sdpMid":"0"}}
+[2025-09-15 23:16:26.029] Adding ICE candidate: candidate:1501012165 1 udp 1677729535 99.243.255.30 61119 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag 2Zmf network-cost 999 mid: 0
+[2025-09-15 23:16:26.029] addRemoteCandidate success
+[2025-09-15 23:16:26.029] [WS] Received and added ICE candidate
+[2025-09-15 23:16:26.029] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:1501012165 1 udp 1677729535 99.243.255.30 61121 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag yboR network-cost 999","sdpMid":"video"}}
+[2025-09-15 23:16:26.029] Adding ICE candidate: candidate:1501012165 1 udp 1677729535 99.243.255.30 61121 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag yboR network-cost 999 mid: video
+[2025-09-15 23:16:26.029] addRemoteCandidate success
+[2025-09-15 23:16:26.029] [WS] Received and added ICE candidate
+[2025-09-15 23:16:26.029] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 59373 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 23:16:26.030] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_231626.h264
+[2025-09-15 23:16:26.030] [NVENC] Open OK
+[2025-09-15 23:16:33.588] [NVENC] Closed
+[2025-09-15 23:16:33.593] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 23:17:04.675] [WebRTC][DLL] PeerConnection state: 4
+[2025-09-15 23:17:04.675] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 23:17:49.734] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 23:17:49.734] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 23:17:49.734] onLocalDescription triggered: v=0
+o=rtc 4253906566 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 9B:50:81:43:8E:CE:9B:66:02:93:4F:DB:CB:70:A2:2C:66:69:25:60:0B:34:C7:31:FF:B0:AA:0E:43:6E:B2:42
+m=video 9 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 packetization-mode=1;profile-level-id=42e01f;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:s/hX
+a=ice-pwd:Au/3h0mkFi+rmnb2wY80gI
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:s/hX
+a=ice-pwd:Au/3h0mkFi+rmnb2wY80gI
+
+[2025-09-15 23:17:49.735] Initializing socket
+[2025-09-15 23:17:49.738] [WS] Connected to signaling server
+[2025-09-15 23:17:49.738] SDP Offer sent to browser!
+[2025-09-15 23:17:49.747] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 7557488728874134315 3 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:gm8u\r\na=ice-pwd:nDbValUFATRFnqgykSbTO/GX\r\na=ice-options:trickle\r\na=fingerprint:sha-256 B2:16:27:53:62:49:CC:8F:9F:69:F0:8D:2E:D4:D3:3A:5F:66:B2:70:89:59:E6:EF:70:E8:58:AE:38:13:B4:CE\r\na=setup:active\r\na=mid:video\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:96 H264/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:MZMf\r\na=ice-pwd:cTKgkigqDmOutm2uX2J4HSxm\r\na=ice-options:trickle\r\na=fingerprint:sha-256 B2:16:27:53:62:49:CC:8F:9F:69:F0:8D:2E:D4:D3:3A:5F:66:B2:70:89:59:E6:EF:70:E8:58:AE:38:13:B4:CE\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 23:17:49.747] [WS] Remote already set, ignoring extra answer
+[2025-09-15 23:17:49.750] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:3628604437 1 udp 2113937151 71c6bf4f-cb69-47c9-8d0e-1a7fc85afd33.local 59482 typ host generation 1 ufrag MZMf network-cost 999","sdpMid":"0"}}
+[2025-09-15 23:17:49.750] Adding ICE candidate: candidate:3628604437 1 udp 2113937151 71c6bf4f-cb69-47c9-8d0e-1a7fc85afd33.local 59482 typ host generation 1 ufrag MZMf network-cost 999 mid: 0
+[2025-09-15 23:17:49.750] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_231749.h264
+[2025-09-15 23:17:49.750] [NVENC] Open OK
+[2025-09-15 23:17:49.750] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:17:49.750] [WS] Received and added ICE candidate
+[2025-09-15 23:17:49.750] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:3628604437 1 udp 2113937151 71c6bf4f-cb69-47c9-8d0e-1a7fc85afd33.local 59484 typ host generation 1 ufrag gm8u network-cost 999","sdpMid":"video"}}
+[2025-09-15 23:17:49.750] Adding ICE candidate: candidate:3628604437 1 udp 2113937151 71c6bf4f-cb69-47c9-8d0e-1a7fc85afd33.local 59484 typ host generation 1 ufrag gm8u network-cost 999 mid: video
+[2025-09-15 23:17:49.750] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:17:49.750] [WS] Received and added ICE candidate
+[2025-09-15 23:17:49.757] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 59481 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 23:17:49.768] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:1501012165 1 udp 1677729535 99.243.255.30 59482 typ srflx raddr 0.0.0.0 rport 0 generation 1 ufrag MZMf network-cost 999","sdpMid":"0"}}
+[2025-09-15 23:17:49.768] Adding ICE candidate: candidate:1501012165 1 udp 1677729535 99.243.255.30 59482 typ srflx raddr 0.0.0.0 rport 0 generation 1 ufrag MZMf network-cost 999 mid: 0
+[2025-09-15 23:17:49.768] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:17:49.768] [WS] Received and added ICE candidate
+[2025-09-15 23:17:49.768] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:1501012165 1 udp 1677729535 99.243.255.30 59484 typ srflx raddr 0.0.0.0 rport 0 generation 1 ufrag gm8u network-cost 999","sdpMid":"video"}}
+[2025-09-15 23:17:49.768] Adding ICE candidate: candidate:1501012165 1 udp 1677729535 99.243.255.30 59484 typ srflx raddr 0.0.0.0 rport 0 generation 1 ufrag gm8u network-cost 999 mid: video
+[2025-09-15 23:17:49.768] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:17:49.768] [WS] Received and added ICE candidate
+[2025-09-15 23:17:55.058] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 23:17:55.064] [NVENC] Closed
+[2025-09-15 23:18:05.457] [WebRTC][DLL] PeerConnection state: 5
+[2025-09-15 23:18:05.457] [WebRTC][DLL] Added H264 video m= line (PT=96)
+[2025-09-15 23:18:05.457] [WebRTC][DLL] Could not parse video SSRC from offer; using fallback 0x11223344
+[2025-09-15 23:18:05.457] onLocalDescription triggered: v=0
+o=rtc 581970513 0 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic:WMS *
+a=ice-options:ice2,trickle
+a=fingerprint:sha-256 D5:3C:73:83:61:2E:94:40:BB:89:85:4E:0D:85:B9:A6:92:98:46:4C:1D:01:A3:B1:31:D8:68:F6:46:F6:77:2D
+m=video 9 UDP/TLS/RTP/SAVPF 96
+c=IN IP4 0.0.0.0
+a=mid:video
+a=sendonly
+a=rtcp-mux
+a=rtpmap:96 H264/90000
+a=rtcp-fb:96 nack
+a=rtcp-fb:96 nack pli
+a=rtcp-fb:96 goog-remb
+a=fmtp:96 packetization-mode=1;profile-level-id=42e01f;level-asymmetry-allowed=1
+a=setup:actpass
+a=ice-ufrag:jo8E
+a=ice-pwd:87eMbW7sVfXwjwmDPgVXXV
+m=application 9 UDP/DTLS/SCTP webrtc-datachannel
+c=IN IP4 0.0.0.0
+a=mid:0
+a=sendrecv
+a=sctp-port:5000
+a=max-message-size:262144
+a=setup:actpass
+a=ice-ufrag:jo8E
+a=ice-pwd:87eMbW7sVfXwjwmDPgVXXV
+
+[2025-09-15 23:18:05.459] Initializing socket
+[2025-09-15 23:18:05.462] [WS] Connected to signaling server
+[2025-09-15 23:18:05.462] SDP Offer sent to browser!
+[2025-09-15 23:18:05.472] [NVENC] Writing to C:/Users/parma/AppData/LocalLow/DefaultCompany/WebRTCTest_URP/EncodedOut/stream_20250915_231805.h264
+[2025-09-15 23:18:05.472] [NVENC] Open OK
+[2025-09-15 23:18:05.475] [WS] Received: {"type":"sdp-answer","sdp":"v=0\r\no=- 5719933218202147763 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE 0\r\na=msid-semantic: WMS\r\nm=video 9 UDP/TLS/RTP/SAVPF 96\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:H94Q\r\na=ice-pwd:U7NyWVdon+k/seZvELMtGLbq\r\na=ice-options:trickle\r\na=fingerprint:sha-256 98:B3:6E:9C:1C:EF:AF:E3:EE:13:3B:46:80:C5:14:87:8A:F4:1E:43:B6:31:7E:95:AF:8C:26:DE:9E:CC:CB:8E\r\na=setup:active\r\na=mid:video\r\na=recvonly\r\na=rtcp-mux\r\na=rtpmap:96 H264/90000\r\na=rtcp-fb:96 goog-remb\r\na=rtcp-fb:96 nack\r\na=rtcp-fb:96 nack pli\r\na=fmtp:96 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\nm=application 9 UDP/DTLS/SCTP webrtc-datachannel\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:V23S\r\na=ice-pwd:dPZCHiqiw7XCDQdEVCAxNBIv\r\na=ice-options:trickle\r\na=fingerprint:sha-256 98:B3:6E:9C:1C:EF:AF:E3:EE:13:3B:46:80:C5:14:87:8A:F4:1E:43:B6:31:7E:95:AF:8C:26:DE:9E:CC:CB:8E\r\na=setup:active\r\na=mid:0\r\na=sctp-port:5000\r\na=max-message-size:262144\r\n"}
+[2025-09-15 23:18:05.476] [WS] Remote already set, ignoring extra answer
+[2025-09-15 23:18:05.480] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:1220704676 1 udp 2113937151 0f4761a9-c1f4-44b9-8c9b-81eb854edb20.local 57070 typ host generation 0 ufrag V23S network-cost 999","sdpMid":"0"}}
+[2025-09-15 23:18:05.480] Adding ICE candidate: candidate:1220704676 1 udp 2113937151 0f4761a9-c1f4-44b9-8c9b-81eb854edb20.local 57070 typ host generation 0 ufrag V23S network-cost 999 mid: 0
+[2025-09-15 23:18:05.481] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:18:05.481] [WS] Received and added ICE candidate
+[2025-09-15 23:18:05.481] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:1220704676 1 udp 2113937151 0f4761a9-c1f4-44b9-8c9b-81eb854edb20.local 57072 typ host generation 0 ufrag H94Q network-cost 999","sdpMid":"video"}}
+[2025-09-15 23:18:05.481] Adding ICE candidate: candidate:1220704676 1 udp 2113937151 0f4761a9-c1f4-44b9-8c9b-81eb854edb20.local 57072 typ host generation 0 ufrag H94Q network-cost 999 mid: video
+[2025-09-15 23:18:05.481] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:18:05.481] [WS] Received and added ICE candidate
+[2025-09-15 23:18:05.496] [WebRTC][DLL] Skipping malformed ICE candidate: candidate:3 1 UDP 1686109695 99.243.255.30 57069 typ srflx raddr 0.0.0.0 rport 0
+[2025-09-15 23:18:05.506] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:3465581772 1 udp 1677729535 99.243.255.30 57072 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag H94Q network-cost 999","sdpMid":"video"}}
+[2025-09-15 23:18:05.506] Adding ICE candidate: candidate:3465581772 1 udp 1677729535 99.243.255.30 57072 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag H94Q network-cost 999 mid: video
+[2025-09-15 23:18:05.506] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:18:05.506] [WS] Received and added ICE candidate
+[2025-09-15 23:18:05.506] [WS] Received: {"type":"ice-candidate","candidate":{"candidate":"candidate:3465581772 1 udp 1677729535 99.243.255.30 57070 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag V23S network-cost 999","sdpMid":"0"}}
+[2025-09-15 23:18:05.506] Adding ICE candidate: candidate:3465581772 1 udp 1677729535 99.243.255.30 57070 typ srflx raddr 0.0.0.0 rport 0 generation 0 ufrag V23S network-cost 999 mid: 0
+[2025-09-15 23:18:05.506] addRemoteCandidate exception: Got a remote candidate without remote description
+[2025-09-15 23:18:05.506] [WS] Received and added ICE candidate
+[2025-09-15 23:18:11.263] [NVENC] Closed
+[2025-09-15 23:18:11.269] [WS] Disconnected from signaling server1000 reason=Normal closure
+[2025-09-15 23:24:23.387] [WebRTC][DLL] PeerConnection state: 5
